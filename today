@@ -13,4 +13,5 @@ if [[ $rc -eq 0 ]]; then
   python3 "$DIR/publish.py" 2>&1 | tee -a "$LOG"
   rc=${PIPESTATUS[0]}
 fi
+[[ $rc -eq 0 ]] && "$DIR/backup.sh" 2>&1 | tee -a "$LOG"
 exit $rc
