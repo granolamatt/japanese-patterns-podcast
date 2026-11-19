@@ -1,0 +1,920 @@
+{
+  "title_en": "I'll Have Coffee",
+  "title_jp": "私はコーヒーです",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken (name)",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Hi, Ken.",
+      "literal": "hello, Ken."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki (name)",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is / am (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Hi, Yuki. I'll have coffee.",
+      "literal": "hello, Yuki. I TOPIC coffee am."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is / am (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Then I'll have tea.",
+      "literal": "well then, I TOPIC tea am."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes / here",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Okay. Here you go. This is the tea.",
+      "literal": "yes. here you go. this TOPIC tea is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before eating/drinking)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. Cheers!",
+      "literal": "thank you. I humbly receive."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before eating/drinking)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Cheers!",
+      "literal": "I humbly receive."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "！",
+          "kana": "！",
+          "en": "!",
+          "role": "punct"
+        }
+      ],
+      "en": "This is coffee!",
+      "literal": "this TOPIC coffee is!"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "すみません",
+          "kana": "すみません",
+          "en": "sorry",
+          "role": "expression"
+        },
+        {
+          "jp": "！",
+          "kana": "！",
+          "en": "!",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? Sorry! This one is the tea.",
+      "literal": "is that so. sorry! this TOPIC tea is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you.",
+      "literal": "thank you."
+    }
+  ],
+  "explanation": {
+    "summary": "This sentence pattern has three slots: [Topic] は [Noun] です. The first slot is the topic, meaning the thing you are talking about. The small word は comes right after it and works like a label that says \"this is my topic.\" The last slot is a noun followed by です, which roughly means \"is\" or \"am\" and makes the sentence polite. So これはコーヒーです is built as \"this (topic) / coffee / is\", which means \"This is coffee.\"",
+    "structure_notes": [
+      "Word order is fixed: topic first, then は, then the noun, then です at the very end. In Japanese, the 'is' word comes last, not in the middle as in English.",
+      "は is a particle, a small word that marks the role of the word in front of it. It always comes AFTER the word it marks. Here it marks the topic. It is written は but pronounced 'wa'.",
+      "です does not change for I, you, he, or it. 私はコーヒーです, けんはコーヒーです, and これはコーヒーです all end with the same です.",
+      "は means 'as for X', not strictly 'X equals Y'. That's why 私はコーヒーです (as for me: coffee) is a normal way to order at a café. It means 'I'll have coffee', not 'I am a coffee'.",
+      "Japanese has no words for 'a' or 'the', so コーヒー can mean 'coffee', 'a coffee', or 'the coffee', depending on context."
+    ],
+    "connects_to": "This is the first pattern, so there is nothing earlier to link it to. But you have already heard です inside the set phrase そうですか: it is the same です you just learned, with a question marker added (you'll learn that later)."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "I'll have tea.",
+      "swap": "noun: コーヒー → おちゃ"
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken (name)",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken is having coffee.",
+      "swap": "topic: 私 → けん"
+    },
+    {
+      "words": [
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki (name)",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yuki is having tea.",
+      "swap": "topic: けん → ゆき, noun: コーヒー → おちゃ"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This is coffee.",
+      "swap": "topic: ゆき → これ"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "私",
+      "kana": "わたし",
+      "en": "I, me"
+    },
+    {
+      "jp": "コーヒー",
+      "kana": "コーヒー",
+      "en": "coffee"
+    },
+    {
+      "jp": "おちゃ",
+      "kana": "おちゃ",
+      "en": "tea (green tea)"
+    },
+    {
+      "jp": "これ",
+      "kana": "これ",
+      "en": "this (thing near me)"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B desu",
+    "pattern_jp": "AはBです",
+    "pattern_english": "A is B (literally: as for A, B is it)",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "The topic: a person, a thing, or a place. For example 私 (I), これ (this), 東京 (Tokyo), a person's name."
+      },
+      {
+        "slot": "B",
+        "fits": "A noun that says what the topic is, or what goes with it. For example おちゃ (tea), コーヒー (coffee), a name, the weather (晴れ, sunny)."
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome to your very first episode! Today we learn the most useful sentence shape in Japanese. Here it is."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "AはBです"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That means: A is B. Something, then {は}, then something else, then {です}."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's take it apart. First comes A, the topic. That's the thing you want to talk about: a person, a thing, a place."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Right after the topic comes the little word {は}. It flags the topic. Think of it as 'as for.' As for this. As for me."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Next comes B, a noun that tells us about the topic. And at the very end we say {です}. That's the 'is' part, and it also makes the sentence polite."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the big difference from English. In English, 'is' sits in the middle: this is tea. In Japanese, {です} waits until the very end: this, tea, is."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one together. Start with the word for 'this.'"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'This.' Now add the topic marker."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'As for this.' Now add the word for green tea, {おちゃ}, and finish with {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはおちゃです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'This is tea.' Your first full Japanese sentence!"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build another one. Start with the word for 'I.'"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'I.' Add the topic marker."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'As for me.' Now add Ken's name, and finish with {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私はけんです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'I am Ken.' That's how you introduce yourself."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now one more, a really handy one. Same start, as for me."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now add the word for coffee, {コーヒー}, and finish."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私はコーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Word for word, that's 'as for me, coffee.' In a café it means 'I'll have coffee.'"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now watch how the frame stays the same while the words change. Swap tea for coffee."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはコーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'This is coffee.' Or swap the name."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "私はゆきです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "'I am Yuki.' Same frame, new words. That's what makes it a pattern."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a common beginner mistake. When you hear Ken order coffee, don't panic and think he's saying 'I am coffee.'"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Remember that {は} means 'as for.' So the sentence just sets up a topic and then adds something about it. As for me, coffee. Japanese leaves the rest to context."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And one memory trick: {です} works like a full stop. When you hear it, the sentence is finished."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Well done. Everything else you learn will be built on this pattern, so you've just laid the foundation."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it. Listen for {は} and {です}, and see if one of them gets the drinks mixed up."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "これ",
+            "romaji": "kore",
+            "en": "this"
+          },
+          {
+            "jp": "これは",
+            "romaji": "kore wa",
+            "en": "as for this"
+          },
+          {
+            "jp": "これはおちゃです。",
+            "romaji": "kore wa ocha desu.",
+            "en": "This is tea."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "私",
+            "romaji": "watashi",
+            "en": "I"
+          },
+          {
+            "jp": "私は",
+            "romaji": "watashi wa",
+            "en": "as for me"
+          },
+          {
+            "jp": "私はけんです。",
+            "romaji": "watashi wa Ken desu.",
+            "en": "I am Ken."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "私は",
+            "romaji": "watashi wa",
+            "en": "as for me"
+          },
+          {
+            "jp": "私はコーヒー",
+            "romaji": "watashi wa koohii",
+            "en": "as for me, coffee"
+          },
+          {
+            "jp": "私はコーヒーです。",
+            "romaji": "watashi wa koohii desu.",
+            "en": "I'll have coffee. (literally: as for me, it's coffee)"
+          }
+        ]
+      }
+    ],
+    "tip": "は (wa) means \"as for\" and marks the topic. It doesn't mean \"equals.\" So 私はコーヒーです (watashi wa koohii desu) means \"As for me, coffee,\" which is how you say \"I'll have coffee.\" It does not mean \"I am coffee.\" Memory trick: です (desu) is like a full stop. It always comes last and closes the sentence.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "今日、東京は晴れです。",
+      "sentence_en": "Today, it's sunny in Tokyo. (literally: today, as for Tokyo, it's sunny)",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Time for some real Japanese. On a morning TV weather report, you might hear a line like this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "今日、東京は晴れです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "That went by fast, so let's take it in pieces. First piece."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "今日"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "This is a new word, {今日}. It means 'today.' It just sets the scene before the pattern starts."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "東京は"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "'As for Tokyo.' Tokyo is the topic, so it goes in the A slot, with {は} right after it."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "晴れです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Second new word: {晴れ}, meaning 'sunny weather.' It fills the B slot, and {です} closes the sentence. Put together: today, it's sunny in Tokyo."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "今日、東京は晴れです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Weather forecasters go city by city with this exact pattern. Listen for a place name, then {は}, then the weather, then {です}."
+        }
+      ]
+    }
+  }
+}

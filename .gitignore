@@ -1,0 +1,15 @@
+# secrets — never commit
+secrets.env
+*.key
+.env
+
+# large / regenerable
+vendor/
+site/
+*.mp3
+*.wav
+
+# machine-local
+logs/
+__pycache__/
+*.tmp

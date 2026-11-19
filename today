@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Generate today's beginner Japanese podcast episode, then upload to Google Drive.
+# Usage: today [--force] [--topic "..."] [--date YYYY-MM-DD]
+set -uo pipefail
+DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:$PATH"
+mkdir -p "$DIR/logs"
+LOG="$DIR/logs/$(date +%F).log"
+python3 "$DIR/podcast.py" "$@" 2>&1 | tee -a "$LOG"
+rc=${PIPESTATUS[0]}
+[[ $rc -eq 0 ]] && "$DIR/upload.sh" 2>&1 | tee -a "$LOG"
+if [[ $rc -eq 0 ]]; then
+  python3 "$DIR/publish.py" 2>&1 | tee -a "$LOG"
+  rc=${PIPESTATUS[0]}
+fi
+exit $rc

@@ -1,0 +1,139 @@
+{
+  "episodes": [
+    {
+      "number": 1,
+      "date": "2026-11-18",
+      "topic": "ordering coffee at a café",
+      "pattern_id": "wa-desu",
+      "pattern": "〜は〜です",
+      "title": "私はコーヒーです — I'll Have Coffee",
+      "mp3": "episodes/2026-11-18/2026-11-18_ep001.mp3",
+      "data_file": "episodes/2026-11-18/2026-11-18_ep001.json"
+    }
+  ],
+  "vocab": {
+    "こんにちは": {
+      "kana": "こんにちは",
+      "en": "hello",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 2,
+      "last_episode": 1
+    },
+    "けん": {
+      "kana": "けん",
+      "en": "Ken (name)",
+      "role": "noun",
+      "first_episode": 1,
+      "uses": 2,
+      "last_episode": 1
+    },
+    "ゆき": {
+      "kana": "ゆき",
+      "en": "Yuki (name)",
+      "role": "noun",
+      "first_episode": 1,
+      "uses": 2,
+      "last_episode": 1
+    },
+    "私": {
+      "kana": "わたし",
+      "en": "I",
+      "role": "pronoun",
+      "first_episode": 1,
+      "uses": 3,
+      "last_episode": 1
+    },
+    "コーヒー": {
+      "kana": "コーヒー",
+      "en": "coffee",
+      "role": "noun",
+      "first_episode": 1,
+      "uses": 4,
+      "last_episode": 1
+    },
+    "です": {
+      "kana": "です",
+      "en": "is / am (polite)",
+      "role": "copula",
+      "first_episode": 1,
+      "uses": 9,
+      "last_episode": 1
+    },
+    "じゃあ": {
+      "kana": "じゃあ",
+      "en": "well then",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 1,
+      "last_episode": 1
+    },
+    "おちゃ": {
+      "kana": "おちゃ",
+      "en": "tea",
+      "role": "noun",
+      "first_episode": 1,
+      "uses": 5,
+      "last_episode": 1
+    },
+    "はい": {
+      "kana": "はい",
+      "en": "yes / here",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 1,
+      "last_episode": 1
+    },
+    "どうぞ": {
+      "kana": "どうぞ",
+      "en": "here you go",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 1,
+      "last_episode": 1
+    },
+    "これ": {
+      "kana": "これ",
+      "en": "this",
+      "role": "pronoun",
+      "first_episode": 1,
+      "uses": 4,
+      "last_episode": 1
+    },
+    "ありがとうございます": {
+      "kana": "ありがとうございます",
+      "en": "thank you",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 2,
+      "last_episode": 1
+    },
+    "いただきます": {
+      "kana": "いただきます",
+      "en": "(said before eating/drinking)",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 2,
+      "last_episode": 1
+    },
+    "そうですか": {
+      "kana": "そうですか",
+      "en": "oh, really?",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 1,
+      "last_episode": 1
+    },
+    "すみません": {
+      "kana": "すみません",
+      "en": "sorry",
+      "role": "expression",
+      "first_episode": 1,
+      "uses": 1,
+      "last_episode": 1
+    }
+  },
+  "patterns_covered": [
+    "〜は〜です"
+  ]
+}
