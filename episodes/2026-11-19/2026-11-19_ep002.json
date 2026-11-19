@@ -1,0 +1,953 @@
+{
+  "title_en": "Is it rainy today?",
+  "title_jp": "今日は あめですか。",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Hi, Ken.",
+      "literal": "hello, Ken."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あめ",
+          "kana": "あめ",
+          "en": "rain",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Hi, Yuki. Is it rainy today?",
+      "literal": "hello, Yuki. today TOPIC rain is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "くもり",
+          "kana": "くもり",
+          "en": "cloudy",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's cloudy.",
+      "literal": "no, cloudy is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "はれ",
+          "kana": "はれ",
+          "en": "sunny weather",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "I see. Will it be sunny tomorrow?",
+      "literal": "oh really. tomorrow TOPIC sunny is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "はれ",
+          "kana": "はれ",
+          "en": "sunny weather",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, it'll be sunny. Well then, here you go.",
+      "literal": "yes, sunny is. well then, here you go."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. Is this coffee?",
+      "literal": "thank you. this TOPIC coffee is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's tea.",
+      "literal": "no, tea is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before drinking)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, okay. Thanks, I'll have some.",
+      "literal": "oh really. (I humbly receive)."
+    }
+  ],
+  "explanation": {
+    "summary": "To turn a statement into a yes/no question in Japanese, you don't change the word order at all. You just add the small particle か (ka) to the very end. So 今日は あめです (Today is rain) becomes 今日は あめですか (Is today rain? = Is it rainy today?). か works like a spoken question mark, so a full Japanese question still ends with 。 and not ？. When you answer, you can start with はい (yes) or いいえ (no) and often drop the topic, as in いいえ、くもりです (No, it's cloudy).",
+    "structure_notes": [
+      "Slot order: [Topic] は + [Noun] + です + か. The new part is only the last slot, か.",
+      "Unlike English, nothing moves. English swaps 'it is' to 'is it', but Japanese keeps the order and just adds か at the end.",
+      "か is a particle that marks the whole sentence as a question. Your voice usually rises a little on か.",
+      "In answers, the topic is often left out because everyone already knows it: (今日は) くもりです → くもりです.",
+      "Weather words like あめ (rain), はれ (sunny) and くもり (cloudy) are nouns here, so they fit straight into the [Noun] slot before です."
+    ],
+    "connects_to": "This is the X は Y です pattern from episode 1 with one extra particle, か, added at the end. Any statement you can already make, you can now ask as a question."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あめ",
+          "kana": "あめ",
+          "en": "rain",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is it rainy today?",
+      "swap": "base sentence (topic: 今日, noun: あめ)"
+    },
+    {
+      "words": [
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "はれ",
+          "kana": "はれ",
+          "en": "sunny weather",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is it sunny today?",
+      "swap": "noun: あめ → はれ"
+    },
+    {
+      "words": [
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "はれ",
+          "kana": "はれ",
+          "en": "sunny weather",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Will it be sunny tomorrow?",
+      "swap": "topic: 今日 → あした"
+    },
+    {
+      "words": [
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "くもり",
+          "kana": "くもり",
+          "en": "cloudy",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Will it be cloudy tomorrow?",
+      "swap": "noun: はれ → くもり"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is this tea?",
+      "swap": "topic: あした → これ, noun: くもり → おちゃ"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "今日",
+      "kana": "きょう",
+      "en": "today"
+    },
+    {
+      "jp": "あした",
+      "kana": "あした",
+      "en": "tomorrow"
+    },
+    {
+      "jp": "あめ",
+      "kana": "あめ",
+      "en": "rain"
+    },
+    {
+      "jp": "はれ",
+      "kana": "はれ",
+      "en": "sunny weather"
+    },
+    {
+      "jp": "くもり",
+      "kana": "くもり",
+      "en": "cloudy weather"
+    },
+    {
+      "jp": "いいえ",
+      "kana": "いいえ",
+      "en": "no"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B desu ka",
+    "pattern_jp": "AはBですか",
+    "pattern_english": "Is A B?",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "the topic: a thing, a person, a time word like today or tomorrow, or 'this' (これ)"
+      },
+      {
+        "slot": "B",
+        "fits": "a noun you're asking about: weather (あめ, はれ, くもり), a drink (コーヒー, おちゃ), a person's name or job"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {AはBですか}. It means: Is A B? It's how you ask a yes-or-no question."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "AはBですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the good news: you already know almost all of it. Last time you learned {AはBです}, which means A is B. Today we add just one tiny sound at the very end: {か}."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's walk through the slots. A is the topic, the thing you're talking about. Then comes {は}, the little word that marks the topic. B is the noun you're asking about. Then {です}, which means 'is'. And last, {か}, which turns everything into a question."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Notice the word order. English moves 'is' to the front to make a question: 'It is rain' becomes 'Is it rain?' Japanese doesn't move anything. The order stays the same, and the question word {か} just goes at the end."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the topic, {今日}, which means today, plus {は}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "今日は"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for today. Now add {あめ}, rain, and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "今日はあめです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Today is rainy. That's a statement. Now add {か}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "今日はあめですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is it rainy today? That's exactly what Ken asks in today's dialogue."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Another one. Start with {これは}, which means 'as for this'."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "これは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add {コーヒー}, coffee, and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "これはコーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This is coffee. Now finish it with {か}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "これはコーヒーですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is this coffee? And to answer, say {はい}, yes, or {いいえ}, no, then the real answer."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "いいえ、おちゃです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "No, it's tea."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a swap. Keep the same skeleton, but use {あした}, tomorrow, and {はれ}, sunny weather."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "あしたははれですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Will it be sunny tomorrow? Same frame, new words. Put any topic in A and any noun in B."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's a memory trick: think of {か} as a question mark you can hear. Beginners often think they need a rising voice or a different word order. You don't. {か} does the work all by itself."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "So here's how it snaps onto what you know: any {AはBです} sentence becomes a question when you add {か}. Listen to the pair one more time."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "おちゃです。おちゃですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's tea. Is it tea? Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "今日は",
+            "romaji": "kyou wa",
+            "en": "As for today"
+          },
+          {
+            "jp": "今日はあめです。",
+            "romaji": "kyou wa ame desu.",
+            "en": "Today is rainy."
+          },
+          {
+            "jp": "今日はあめですか。",
+            "romaji": "kyou wa ame desu ka.",
+            "en": "Is it rainy today?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "これは",
+            "romaji": "kore wa",
+            "en": "As for this"
+          },
+          {
+            "jp": "これはコーヒーです。",
+            "romaji": "kore wa koohii desu.",
+            "en": "This is coffee."
+          },
+          {
+            "jp": "これはコーヒーですか。",
+            "romaji": "kore wa koohii desu ka.",
+            "en": "Is this coffee?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "あしたは",
+            "romaji": "ashita wa",
+            "en": "As for tomorrow"
+          },
+          {
+            "jp": "あしたははれです。",
+            "romaji": "ashita wa hare desu.",
+            "en": "Tomorrow will be sunny."
+          },
+          {
+            "jp": "あしたははれですか。",
+            "romaji": "ashita wa hare desu ka.",
+            "en": "Will it be sunny tomorrow?"
+          }
+        ]
+      }
+    ],
+    "tip": "か is a question mark you can hear. You don't change the word order or add a separate word for 'is'. Just take any AはBです sentence and put か at the end. To answer, start with はい (yes) or いいえ (no).",
+    "real_world": {
+      "style": "radio host asking the weather forecaster",
+      "sentence_jp": "では、しゅうまつは はれですか。",
+      "sentence_en": "So then, will the weekend be sunny?",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Time for real Japanese. On a radio show, the host often turns to the weather forecaster and asks a quick question like this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "natural",
+          "text": "では、しゅうまつは はれですか。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it down. First chunk:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "では"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "This means 'well then' or 'so'. It's a more formal version of {じゃあ}, which Yuki uses in the dialogue. Hosts use it all the time to change topics."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "しゅうまつは"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{しゅうまつ} is a new word. It means the weekend. With {は}, it fills slot A, the topic."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "はれですか"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{はれ}, sunny, fills slot B. Then {ですか} makes it a question. Is it sunny? Now listen to the whole thing at full speed again."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "natural",
+          "text": "では、しゅうまつは はれですか。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "So then, will the weekend be sunny? When you listen to real Japanese, catch that little {か} at the end of a sentence. It tells you someone just asked a question, so an answer is coming next."
+        }
+      ]
+    }
+  }
+}

@@ -3,14 +3,15 @@
 | # | Pattern | Romaji | English | Example |
 |---|---|---|---|---|
 | 1 | AはBです | A wa B desu | **A is B (literally: as for A, B is it)** | 私(わたし)はおちゃです。 — I'll have tea. |
+| 2 | AはBですか | A wa B desu ka | **Is A B?** | 今日(きょう)はあめですか。 — Is it rainy today? |
 
-# Roadmap: 1 of 800 patterns
+# Roadmap: 2 of 800 patterns
 
 
 ## N5
 
 - [x] 1. 〜は〜です · [Topic] wa [Noun] desu = [Topic] is [Noun]
-- [ ] 2. 〜ですか · [Topic] wa [Noun] desu ka = Is [Topic] [Noun]?
+- [x] 2. 〜ですか · [Topic] wa [Noun] desu ka = Is [Topic] [Noun]?
 - [ ] 3. 〜じゃないです · [Topic] wa [Noun] ja nai desu = [Topic] is not [Noun]
 - [ ] 4. 〜の〜 · [Noun A] no [Noun B] = A's B / the B of A
 - [ ] 5. これ／それ／あれ・この〜 · kore wa [Noun] desu / kono [Noun] wa ... = This is [Noun] / this [Noun] is ...

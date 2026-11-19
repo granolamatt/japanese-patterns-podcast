@@ -9,6 +9,16 @@
       "title": "私はコーヒーです — I'll Have Coffee",
       "mp3": "episodes/2026-11-18/2026-11-18_ep001.mp3",
       "data_file": "episodes/2026-11-18/2026-11-18_ep001.json"
+    },
+    {
+      "number": 2,
+      "date": "2026-11-19",
+      "topic": "the weather today",
+      "pattern_id": "ka-question",
+      "pattern": "〜ですか",
+      "title": "今日は あめですか。 — Is it rainy today?",
+      "mp3": "episodes/2026-11-19/2026-11-19_ep002.mp3",
+      "data_file": "episodes/2026-11-19/2026-11-19_ep002.json"
     }
   ],
   "vocab": {
@@ -17,24 +27,24 @@
       "en": "hello",
       "role": "expression",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 1
+      "uses": 4,
+      "last_episode": 2
     },
     "けん": {
       "kana": "けん",
       "en": "Ken (name)",
       "role": "noun",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 1
+      "uses": 3,
+      "last_episode": 2
     },
     "ゆき": {
       "kana": "ゆき",
       "en": "Yuki (name)",
       "role": "noun",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 1
+      "uses": 3,
+      "last_episode": 2
     },
     "私": {
       "kana": "わたし",
@@ -49,80 +59,80 @@
       "en": "coffee",
       "role": "noun",
       "first_episode": 1,
-      "uses": 4,
-      "last_episode": 1
+      "uses": 5,
+      "last_episode": 2
     },
     "です": {
       "kana": "です",
       "en": "is / am (polite)",
       "role": "copula",
       "first_episode": 1,
-      "uses": 9,
-      "last_episode": 1
+      "uses": 20,
+      "last_episode": 2
     },
     "じゃあ": {
       "kana": "じゃあ",
       "en": "well then",
       "role": "expression",
       "first_episode": 1,
-      "uses": 1,
-      "last_episode": 1
+      "uses": 2,
+      "last_episode": 2
     },
     "おちゃ": {
       "kana": "おちゃ",
       "en": "tea",
       "role": "noun",
       "first_episode": 1,
-      "uses": 5,
-      "last_episode": 1
+      "uses": 7,
+      "last_episode": 2
     },
     "はい": {
       "kana": "はい",
       "en": "yes / here",
       "role": "expression",
       "first_episode": 1,
-      "uses": 1,
-      "last_episode": 1
+      "uses": 2,
+      "last_episode": 2
     },
     "どうぞ": {
       "kana": "どうぞ",
       "en": "here you go",
       "role": "expression",
       "first_episode": 1,
-      "uses": 1,
-      "last_episode": 1
+      "uses": 2,
+      "last_episode": 2
     },
     "これ": {
       "kana": "これ",
       "en": "this",
       "role": "pronoun",
       "first_episode": 1,
-      "uses": 4,
-      "last_episode": 1
+      "uses": 6,
+      "last_episode": 2
     },
     "ありがとうございます": {
       "kana": "ありがとうございます",
       "en": "thank you",
       "role": "expression",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 1
+      "uses": 3,
+      "last_episode": 2
     },
     "いただきます": {
       "kana": "いただきます",
       "en": "(said before eating/drinking)",
       "role": "expression",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 1
+      "uses": 3,
+      "last_episode": 2
     },
     "そうですか": {
       "kana": "そうですか",
       "en": "oh, really?",
       "role": "expression",
       "first_episode": 1,
-      "uses": 1,
-      "last_episode": 1
+      "uses": 3,
+      "last_episode": 2
     },
     "すみません": {
       "kana": "すみません",
@@ -131,9 +141,58 @@
       "first_episode": 1,
       "uses": 1,
       "last_episode": 1
+    },
+    "今日": {
+      "kana": "きょう",
+      "en": "today",
+      "role": "noun",
+      "first_episode": 2,
+      "uses": 3,
+      "last_episode": 2
+    },
+    "あめ": {
+      "kana": "あめ",
+      "en": "rain",
+      "role": "noun",
+      "first_episode": 2,
+      "uses": 2,
+      "last_episode": 2
+    },
+    "いいえ": {
+      "kana": "いいえ",
+      "en": "no",
+      "role": "expression",
+      "first_episode": 2,
+      "uses": 2,
+      "last_episode": 2
+    },
+    "くもり": {
+      "kana": "くもり",
+      "en": "cloudy",
+      "role": "noun",
+      "first_episode": 2,
+      "uses": 2,
+      "last_episode": 2
+    },
+    "あした": {
+      "kana": "あした",
+      "en": "tomorrow",
+      "role": "noun",
+      "first_episode": 2,
+      "uses": 3,
+      "last_episode": 2
+    },
+    "はれ": {
+      "kana": "はれ",
+      "en": "sunny weather",
+      "role": "noun",
+      "first_episode": 2,
+      "uses": 4,
+      "last_episode": 2
     }
   },
   "patterns_covered": [
-    "〜は〜です"
+    "〜は〜です",
+    "〜ですか"
   ]
 }
