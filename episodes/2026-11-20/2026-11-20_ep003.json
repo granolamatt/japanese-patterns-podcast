@@ -1,0 +1,1130 @@
+{
+  "title_en": "I'm Not a Student",
+  "title_jp": "学生じゃないです",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Hello. I'm Yuki.",
+      "literal": "hello. I TOPIC Yuki am."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Hello. I'm Ken.",
+      "literal": "hello. I TOPIC Ken am."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "学生",
+          "kana": "がくせい",
+          "en": "student",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken, are you a student?",
+      "literal": "Ken TOPIC student is QUESTION?"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": "comma",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "学生",
+          "kana": "がくせい",
+          "en": "student",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "am not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "かいしゃいん",
+          "kana": "かいしゃいん",
+          "en": "office worker",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "No, I'm not a student. I'm an office worker.",
+      "literal": "no, I TOPIC student am-not. office worker am."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "かいしゃいん",
+          "kana": "かいしゃいん",
+          "en": "office worker",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "am not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "せんせい",
+          "kana": "せんせい",
+          "en": "teacher",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? I'm not an office worker. I'm a teacher.",
+      "literal": "oh really. I TOPIC office worker am-not. teacher am."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "日本人",
+          "kana": "にほんじん",
+          "en": "Japanese person",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Yuki, are you Japanese?",
+      "literal": "Yuki TOPIC Japanese-person is QUESTION?"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": "comma",
+          "role": "punct"
+        },
+        {
+          "jp": "日本人",
+          "kana": "にほんじん",
+          "en": "Japanese person",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "日本人",
+          "kana": "にほんじん",
+          "en": "Japanese person",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, I'm Japanese. Ken, are you Japanese?",
+      "literal": "yes, Japanese-person am. Ken TOPIC Japanese-person is QUESTION?"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": "comma",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "日本人",
+          "kana": "にほんじん",
+          "en": "Japanese person",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "am not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "アメリカ人",
+          "kana": "アメリカじん",
+          "en": "American",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "No, I'm not Japanese. I'm American.",
+      "literal": "no, I TOPIC Japanese-person am-not. American am."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": "comma",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, here you go. This isn't coffee. It's tea.",
+      "literal": "well then, here you go. this TOPIC coffee is-not. tea is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before drinking)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. I'll have some.",
+      "literal": "thank you. (I humbly receive)."
+    }
+  ],
+  "explanation": {
+    "summary": "To say that X is NOT Y, take the sentence you already know, [Topic] は [Noun] です, and replace です with じゃないです. Nothing else moves: the topic still comes first and is marked with は, the noun still sits in the middle, and the ending still comes last. So 私は 学生です (I am a student) becomes 私は 学生じゃないです (I am not a student). In Japanese, whether a sentence is positive or negative is only decided at the very end, so you have to listen all the way to the last word.",
+    "structure_notes": [
+      "Slot order: [Topic] + は + [Noun] + じゃないです。 The 'is not' part always comes last, after the noun.",
+      "は marks the topic, meaning what we are talking about. It does not change in a negative sentence.",
+      "じゃないです works as one block that means 'is not / am not / are not'. It attaches straight to the noun, with no particle in between.",
+      "A common way to answer: say 'no' with いいえ, use じゃないです for the wrong idea, then give the right one with です. Example: いいえ、私は 学生じゃないです。かいしゃいんです。",
+      "In the second sentence (かいしゃいんです), the topic 私は is left out because everyone already knows who we mean."
+    ],
+    "connects_to": "This is the negative version of 〜は〜です from episode 1. It is also the natural 'no' answer to the 〜ですか questions from episode 2: if someone asks 学生ですか, you can reply いいえ、学生じゃないです."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "学生",
+          "kana": "がくせい",
+          "en": "student",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "am not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "I'm not a student.",
+      "swap": "noun: せんせい → 学生"
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "せんせい",
+          "kana": "せんせい",
+          "en": "teacher",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken isn't a teacher.",
+      "swap": "topic: 私 → けん"
+    },
+    {
+      "words": [
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "アメリカ人",
+          "kana": "アメリカじん",
+          "en": "American",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Yuki isn't American.",
+      "swap": "topic and noun: けん → ゆき, せんせい → アメリカ人"
+    },
+    {
+      "words": [
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あめ",
+          "kana": "あめ",
+          "en": "rain",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "It isn't raining today.",
+      "swap": "topic and noun: ゆき → 今日, アメリカ人 → あめ"
+    },
+    {
+      "words": [
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "くもり",
+          "kana": "くもり",
+          "en": "cloudy",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Tomorrow won't be cloudy.",
+      "swap": "topic and noun: 今日 → あした, あめ → くもり"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "学生",
+      "kana": "がくせい",
+      "en": "student"
+    },
+    {
+      "jp": "せんせい",
+      "kana": "せんせい",
+      "en": "teacher"
+    },
+    {
+      "jp": "かいしゃいん",
+      "kana": "かいしゃいん",
+      "en": "office worker / company employee"
+    },
+    {
+      "jp": "日本人",
+      "kana": "にほんじん",
+      "en": "Japanese person"
+    },
+    {
+      "jp": "アメリカ人",
+      "kana": "アメリカじん",
+      "en": "American (person)"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B ja nai desu",
+    "pattern_jp": "AはBじゃないです",
+    "pattern_english": "A is not B",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "the topic: a person (私, a name like けん), a thing (これ), or a time or place (あした, きょう)"
+      },
+      {
+        "slot": "B",
+        "fits": "a noun that A is NOT: a job (学生, かいしゃいん, せんせい), a nationality (日本人), a thing (コーヒー), or the weather (雨)"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {AはBじゃないです}. It means: A is not B."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "AはBじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's A is not B. You already know {AはBです}, which means A is B. Today we just make it negative."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here are the slots. A is the topic: a person, a thing, whatever you're talking about. The little word {は} comes right after it and marks it as the topic."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "B is a noun, like a job, a nationality, or a drink. Then, where you used to say {です}, you now say {じゃないです}. That ending means is not."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Notice the word order. In English, the word not comes in the middle: I am not a student. In Japanese, the not comes at the very end, glued to the ending. You don't know it's negative until the last moment, so listen to the end of the sentence!"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with I."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add the topic marker."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for me. Now add the noun {学生}, student."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は学生"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And finish with the negative ending."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は学生じゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "I'm not a student. That's exactly what Ken says in today's dialogue."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Another one. Start with {これ}, this."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for this. Add {コーヒー}, coffee."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはコーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now close it with is not."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはコーヒーじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This isn't coffee. Now a swap: same skeleton, new noun. Put {日本人}, Japanese person, in the B slot."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "私は日本人じゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "I'm not Japanese. Same frame, new word. You can drop in any noun you know."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "A common mistake: saying {です} and then trying to add the negative after it. The negative replaces {です} with {じゃないです}. There's only one {です}, and it's at the very end."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's snap it onto what you know. Someone asks a question with {か}:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "けんは学生ですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Ken, are you a student? You answer with {いいえ}, no, then today's pattern, then the true fact with plain {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "いいえ、私は学生じゃないです。かいしゃいんです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "No, I'm not a student. I'm an office worker. Question, no, is not, is. That's a full conversation!"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "私は",
+            "romaji": "watashi wa",
+            "en": "As for me..."
+          },
+          {
+            "jp": "私は学生",
+            "romaji": "watashi wa gakusei",
+            "en": "As for me... student"
+          },
+          {
+            "jp": "私は学生じゃないです。",
+            "romaji": "watashi wa gakusei ja nai desu.",
+            "en": "I'm not a student."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "これは",
+            "romaji": "kore wa",
+            "en": "As for this..."
+          },
+          {
+            "jp": "これはコーヒー",
+            "romaji": "kore wa koohii",
+            "en": "As for this... coffee"
+          },
+          {
+            "jp": "これはコーヒーじゃないです。",
+            "romaji": "kore wa koohii ja nai desu.",
+            "en": "This isn't coffee."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "私は",
+            "romaji": "watashi wa",
+            "en": "As for me..."
+          },
+          {
+            "jp": "私は日本人",
+            "romaji": "watashi wa nihonjin",
+            "en": "As for me... Japanese person"
+          },
+          {
+            "jp": "私は日本人じゃないです。",
+            "romaji": "watashi wa nihonjin ja nai desu.",
+            "en": "I'm not Japanese."
+          }
+        ]
+      }
+    ],
+    "tip": "The negative ending じゃないです replaces です. It doesn't come after it, so never say \"desu ja nai desu.\" And because \"not\" comes at the very end in Japanese, always listen to the last word to know whether a sentence is yes or no.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "あしたは雨じゃないです。",
+      "sentence_en": "Tomorrow, it won't be rain.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Time for real Japanese. On a friendly TV weather segment, the presenter might say this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたは雨じゃないです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's take it apart. First chunk."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あしたは"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "New word: {あした} means tomorrow. With {は}, it fills the A slot: as for tomorrow."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "雨"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Second new word: {雨} means rain. That's the noun in the B slot."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "じゃないです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "And today's ending, is not. So: tomorrow, it won't be rain. Good news for your drive! Once more at natural speed."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたは雨じゃないです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "In formal news, you'll often hear a more polite version, {ではありません}. It means the same thing, is not. Listen for either one at the end of a sentence. That's where Japanese tells you no."
+        }
+      ]
+    }
+  }
+}
