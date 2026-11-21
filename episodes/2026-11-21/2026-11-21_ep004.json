@@ -1,0 +1,1303 @@
+{
+  "title_en": "Whose Coffee Is This?",
+  "title_jp": "私の コーヒーですか",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "こんにちは",
+          "kana": "こんにちは",
+          "en": "hello",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Hi, Ken. This is my friend's restaurant.",
+      "literal": "hello, Ken. this TOPIC I 'S friend 'S restaurant is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "せんせい",
+          "kana": "せんせい",
+          "en": "teacher",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? Is your friend a teacher, Yuki?",
+      "literal": "oh really. Yuki 'S friend TOPIC teacher is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "せんせい",
+          "kana": "せんせい",
+          "en": "teacher",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "かいしゃいん",
+          "kana": "かいしゃいん",
+          "en": "office worker",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, not a teacher. An office worker.",
+      "literal": "no, teacher is-not. office worker is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "メニュー",
+          "kana": "メニュー",
+          "en": "menu",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, is this the restaurant's menu?",
+      "literal": "well then, this TOPIC restaurant 'S menu is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, here you go.",
+      "literal": "yes, here you go."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. Is this my coffee?",
+      "literal": "thank you. this TOPIC I 'S coffee is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's my tea.",
+      "literal": "no, I 'S tea is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "すみません",
+          "kana": "すみません",
+          "en": "sorry",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Sorry. Then is this my cake?",
+      "literal": "sorry. well then, this TOPIC I 'S cake is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, it's your cake, Ken. Here you go.",
+      "literal": "yes, Ken 'S cake is. here you go."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before eating)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Let's eat!",
+      "literal": "(before-eating phrase)."
+    }
+  ],
+  "explanation": {
+    "summary": "の is a small glue word that joins two nouns. The noun before の is the owner or the describer, and the noun after の is the actual thing. So 私の コーヒー is literally 'I's coffee', meaning 'my coffee'. English uses 'my', 'your', ''s' or 'of', but Japanese uses the same pattern every time: [A] の [B]. The whole group 'A の B' then works like one big noun, so you can put it anywhere a single noun can go, such as before です or before は.",
+    "structure_notes": [
+      "Order: owner first, thing second. ゆきの ともだち = Yuki's friend (the friend belongs to Yuki). If you swap them, the meaning changes.",
+      "The main noun always comes last. In みせの メニュー the thing is the menu, and みせ (restaurant) tells you which menu.",
+      "Use 私の for 'my', and a name + の for 'your' or 'his/her': けんの ケーキ = Ken's cake. Japanese often uses the person's name where English says 'your'.",
+      "You can chain の: 私の ともだちの みせ = my friend's restaurant. Read it left to right: I → friend → restaurant.",
+      "A の B is one noun block, so it fits the slots you already know: これは [A の B] です。 / [A の B] は [Noun] です。 / これは [A の B] じゃないです。"
+    ],
+    "connects_to": "In 〜は〜です, 〜ですか and 〜じゃないです every slot held one noun. Now any of those nouns can grow into a bigger 'A の B' block, and the rest of the sentence stays exactly the same."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This is my tea.",
+      "swap": "base sentence: 私の おちゃ"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This is Yuki's tea.",
+      "swap": "owner: 私 → ゆき"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Is this Yuki's cake?",
+      "swap": "thing: おちゃ → ケーキ, made into a question with か"
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "アメリカ人",
+          "kana": "アメリカじん",
+          "en": "American",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken's friend is American.",
+      "swap": "the A の B block moves into the topic slot: けんの ともだち は ..."
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "学生",
+          "kana": "がくせい",
+          "en": "student",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken's friend is not a student.",
+      "swap": "description: アメリカ人です → 学生じゃないです"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "ともだち",
+      "kana": "ともだち",
+      "en": "friend"
+    },
+    {
+      "jp": "みせ",
+      "kana": "みせ",
+      "en": "shop / restaurant"
+    },
+    {
+      "jp": "メニュー",
+      "kana": "メニュー",
+      "en": "menu"
+    },
+    {
+      "jp": "ケーキ",
+      "kana": "ケーキ",
+      "en": "cake"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A no B",
+    "pattern_jp": "AのB",
+    "pattern_english": "A's B / the B of A",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "The owner or describer: a person (わたし, けん, ゆき, ともだち), a place (みせ, とうきょう), or a time (あした). It always comes first."
+      },
+      {
+        "slot": "B",
+        "fits": "The main thing you are talking about: an object, a person, or a place (コーヒー, ケーキ, メニュー, みせ, ともだち)."
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {AのB}. It means: A's B, or the B of A. The little word {の} links two nouns together."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the whole idea in one short phrase."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのコーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My coffee. Word for word, that's: me, link word, coffee. Me-'s coffee."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's walk through the slots. Slot A is the owner, or whatever describes the thing: a person, a place, a group. Slot B is the main thing you're actually talking about."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And {の} sits right between them, doing the job of apostrophe-s in English."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "けんのケーキ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Ken's cake. Good news: that's the same order as English. Owner first, then the thing. But when English says 'the menu of the restaurant', Japanese flips it around and puts the restaurant first."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "みせのメニュー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "The restaurant's menu. Restaurant, or shop, is {みせ}. Menu is {メニュー}."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's build a full sentence. Start with the owner, which is me."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたし"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add the link word, and 'me' becomes 'my'."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしの"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now add the thing, coffee."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのコーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My coffee. Now drop it into a frame you already know: this, {は}, then the noun, then {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "これはわたしのコーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This is my coffee. Add {か} at the end and it becomes a question."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "これはわたしのコーヒーですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is this my coffee? Ken asks exactly that in today's dialogue."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "You can also chain {の} more than once. Start with friend, {ともだち}, plus the link word."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "ともだちの"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Friend's. Add restaurant."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "ともだちのみせ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "A friend's restaurant. Now put 'my' in front."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのともだちのみせ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My friend's restaurant. Wrap it in the sentence frame."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはわたしのともだちのみせです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This is my friend's restaurant. One more, a quick one. Ken's."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "けんの"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add cake and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "けんのケーキです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's Ken's cake. Notice that Yuki uses Ken's name where English would say 'your'. Japanese does that a lot."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a swap. Same skeleton, different words. Instead of my coffee, my tea, which is {おちゃ}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのおちゃです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's my tea. And instead of my friend, Yuki's friend."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ゆきのともだちはせんせいですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is Yuki's friend a teacher? Same {の}, brand new sentence."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the common mistake: getting the order backwards. The owner always goes before {の}. If you said this..."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ケーキのけん"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "...you'd be saying 'the cake's Ken', a Ken who belongs to the cake! Memory trick: {の} is apostrophe-s. Whatever comes before it owns whatever comes after it."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And here's how it fits with what you already know. A whole {の} phrase works like one big noun, so it goes anywhere a noun goes: before {です}, before {ですか}, and before {じゃないです}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのコーヒーじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's not my coffee. Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "わたし",
+            "romaji": "watashi",
+            "en": "I / me"
+          },
+          {
+            "jp": "わたしの",
+            "romaji": "watashi no",
+            "en": "my"
+          },
+          {
+            "jp": "わたしのコーヒー",
+            "romaji": "watashi no koohii",
+            "en": "my coffee"
+          },
+          {
+            "jp": "これはわたしのコーヒーです。",
+            "romaji": "Kore wa watashi no koohii desu.",
+            "en": "This is my coffee."
+          },
+          {
+            "jp": "これはわたしのコーヒーですか。",
+            "romaji": "Kore wa watashi no koohii desu ka.",
+            "en": "Is this my coffee?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "ともだちの",
+            "romaji": "tomodachi no",
+            "en": "friend's"
+          },
+          {
+            "jp": "ともだちのみせ",
+            "romaji": "tomodachi no mise",
+            "en": "a friend's restaurant"
+          },
+          {
+            "jp": "わたしのともだちのみせ",
+            "romaji": "watashi no tomodachi no mise",
+            "en": "my friend's restaurant"
+          },
+          {
+            "jp": "これはわたしのともだちのみせです。",
+            "romaji": "Kore wa watashi no tomodachi no mise desu.",
+            "en": "This is my friend's restaurant."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "けんの",
+            "romaji": "Ken no",
+            "en": "Ken's"
+          },
+          {
+            "jp": "けんのケーキです。",
+            "romaji": "Ken no keeki desu.",
+            "en": "It's Ken's cake. (It's your cake, Ken.)"
+          }
+        ]
+      }
+    ],
+    "tip": "Owner first, always. の works like English apostrophe-s: whatever comes before の owns or describes whatever comes after it. けんのケーキ is Ken's cake. Flip it to ケーキのけん and you've said 'the cake's Ken'. When English uses 'of' (the menu of the restaurant), turn it around in Japanese: みせのメニュー.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "あしたのとうきょうのてんきです。",
+      "sentence_en": "Here is tomorrow's weather for Tokyo. (Literally: It's tomorrow's Tokyo's weather.)",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "On the evening news, just before the weather map comes up, the presenter often says something like this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたのとうきょうのてんきです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it into pieces. First chunk."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あしたの"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "New word: {あした} means tomorrow. With {の} it becomes 'tomorrow's'. That's slot A, the describer."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "とうきょうの"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Tokyo's. It's a second {の}, chained just like 'my friend's restaurant'. Tokyo describes what comes next."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "てんきです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "New word: {てんき} means weather. That's slot B, the main thing, followed by your old friend {です}. So: tomorrow's Tokyo weather, it is. In other words, here's tomorrow's weather for Tokyo."
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Here it is again at real speed."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたのとうきょうのてんきです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "When you listen to real news, catch each {の} as it goes by. The word right before it is a label, and the important word usually comes right after the last {の}."
+        }
+      ]
+    }
+  }
+}

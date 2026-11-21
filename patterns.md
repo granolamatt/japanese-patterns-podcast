@@ -5,8 +5,9 @@
 | 1 | AはBです | A wa B desu | **A is B (literally: as for A, B is it)** | 私(わたし)はおちゃです。 — I'll have tea. |
 | 2 | AはBですか | A wa B desu ka | **Is A B?** | 今日(きょう)はあめですか。 — Is it rainy today? |
 | 3 | AはBじゃないです | A wa B ja nai desu | **A is not B** | 私(わたし)は学生(がくせい)じゃないです。 — I'm not a student. |
+| 4 | AのB | A no B | **A's B / the B of A** | これは私(わたし)のおちゃです。 — This is my tea. |
 
-# Roadmap: 3 of 800 patterns
+# Roadmap: 4 of 800 patterns
 
 
 ## N5
@@ -14,7 +15,7 @@
 - [x] 1. 〜は〜です · [Topic] wa [Noun] desu = [Topic] is [Noun]
 - [x] 2. 〜ですか · [Topic] wa [Noun] desu ka = Is [Topic] [Noun]?
 - [x] 3. 〜じゃないです · [Topic] wa [Noun] ja nai desu = [Topic] is not [Noun]
-- [ ] 4. 〜の〜 · [Noun A] no [Noun B] = A's B / the B of A
+- [x] 4. 〜の〜 · [Noun A] no [Noun B] = A's B / the B of A
 - [ ] 5. これ／それ／あれ・この〜 · kore wa [Noun] desu / kono [Noun] wa ... = This is [Noun] / this [Noun] is ...
 - [ ] 6. なん／どこ／だれ · [Topic] wa nan desu ka = What is [Topic]?
 - [ ] 7. 〜も · [Topic] mo [Noun] desu = [Topic] is also [Noun]
