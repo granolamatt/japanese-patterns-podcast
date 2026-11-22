@@ -1,0 +1,1316 @@
+{
+  "title_en": "This Is My Breakfast",
+  "title_jp": "これは あさごはんです",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "おはようございます",
+          "kana": "おはようございます",
+          "en": "good morning",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Good morning, Ken.",
+      "literal": "good morning, Ken."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "おはようございます",
+          "kana": "おはようございます",
+          "en": "good morning",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Good morning. Is that coffee?",
+      "literal": "good morning. that TOPIC coffee is QUESTION?"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this (near me)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's not coffee. This is tea.",
+      "literal": "no, coffee is-not. this TOPIC tea is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "あさごはん",
+          "kana": "あさごはん",
+          "en": "breakfast",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "パン",
+          "kana": "パン",
+          "en": "bread",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / from (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "パン",
+          "kana": "パン",
+          "en": "bread",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? This is my breakfast. This bread is from the shop.",
+      "literal": "oh really. this TOPIC I 'S breakfast is. this bread TOPIC shop 'S bread is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is that over there cake?",
+      "literal": "that-over-there TOPIC cake is QUESTION?"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, it's my friend's cake.",
+      "literal": "yes, friend 'S cake is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あめ",
+          "kana": "あめ",
+          "en": "rain",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is it raining today?",
+      "literal": "today TOPIC rain is QUESTION?"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "くもり",
+          "kana": "くもり",
+          "en": "cloudy",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あめ",
+          "kana": "あめ",
+          "en": "rain",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's cloudy. Tomorrow it'll rain.",
+      "literal": "no, cloudy is. tomorrow TOPIC rain is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? Well then, is this umbrella yours, Ken?",
+      "literal": "oh really. well then, this umbrella TOPIC Ken 'S umbrella is QUESTION?"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, that's my umbrella. Thank you.",
+      "literal": "yes, that TOPIC I 'S umbrella is. thank you."
+    }
+  ],
+  "explanation": {
+    "summary": "これ, それ and あれ are words that point at things, and they fill the topic slot just like any other noun: これ は [Noun] です = 'This is [Noun].' Which one you use depends on distance: これ is near the speaker, それ is near the listener, and あれ is far from both of you. この, その and あの work differently. They can't stand alone. They must sit right before a noun, the way 'this' works in 'this bread': この パン は … = 'This bread is …'. That whole chunk, この + noun, then takes the topic marker は.",
+    "structure_notes": [
+      "これ は おちゃ です。 = [pointing word] + は (topic marker) + [noun] + です. It's the same frame as 私 は 学生 です, just with これ in the topic slot.",
+      "この always comes right before a noun: この パン (this bread), この かさ (this umbrella). You can't say この は, but これ は is fine.",
+      "Distance: これ/この = near me, それ/その = near you, あれ/あの = over there. When Yuki asks about 'this umbrella' (この かさ) in her hand, Ken answers with それ ('that one, near you').",
+      "You can still add か for a question or use じゃないです for 'is not': あれ は ケーキ です か。 / コーヒー じゃないです。",
+      "の still links nouns inside the sentence: この パン は みせ の パン です。 = this bread TOPIC shop 'S bread is."
+    ],
+    "connects_to": "This is the same [Topic] は [Noun] です frame from episode 1. Now これ/それ/あれ go in the topic slot, and この goes right before a noun to make the topic. It works with か questions, じゃないです negatives and の phrases like 私の."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This is my coffee.",
+      "swap": "base sentence"
+    },
+    {
+      "words": [
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That (near you) is my coffee.",
+      "swap": "pointing word: これ → それ"
+    },
+    {
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That over there is my friend's coffee.",
+      "swap": "pointing word: それ → あれ; owner: 私 → ともだち"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / from",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This coffee is from the shop.",
+      "swap": "topic: これ → この コーヒー; owner: みせ"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / from",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is this cake from the shop?",
+      "swap": "noun: コーヒー → ケーキ (+ か question)"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "それ",
+      "kana": "それ",
+      "en": "that (near the listener)"
+    },
+    {
+      "jp": "あれ",
+      "kana": "あれ",
+      "en": "that (over there)"
+    },
+    {
+      "jp": "この",
+      "kana": "この",
+      "en": "this (+ noun)"
+    },
+    {
+      "jp": "あさごはん",
+      "kana": "あさごはん",
+      "en": "breakfast"
+    },
+    {
+      "jp": "パン",
+      "kana": "パン",
+      "en": "bread"
+    },
+    {
+      "jp": "かさ",
+      "kana": "かさ",
+      "en": "umbrella"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "kore wa A desu / kono A wa B desu",
+    "pattern_jp": "これはAです／このAはBです",
+    "pattern_english": "This is A / This A is B",
+    "slots": [
+      {
+        "slot": "これ／それ／あれ",
+        "fits": "これ = this (near me), それ = that (near you), あれ = that over there (far from both of us). They stand alone as the topic, with no noun after them."
+      },
+      {
+        "slot": "この／その／あの",
+        "fits": "The same three distances, but they must come right before a noun: このパン (this bread), そのかさ (that umbrella), あのケーキ (that cake over there)."
+      },
+      {
+        "slot": "A",
+        "fits": "A thing: food, a drink, an object (おちゃ, パン, かさ, ケーキ)"
+      },
+      {
+        "slot": "B",
+        "fits": "A description noun, often with の: みせのパン, 私のかさ, ともだちのケーキ"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {これはAです}. It means: This is A."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And its partner is {このAはBです}. It means: This A is B. Let's take them apart."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Japanese has three pointing words, based on distance. {これ} means this, something near me."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "{それ} means that, something near you, the listener. And {あれ} means that over there, far from both of us."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "These three stand alone. Put {は} after them, and you have your topic, just like last time. Then the noun, then {です} last."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これはおちゃです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This is tea. Word by word: this, topic marker, tea, is. The {です} comes at the very end."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now the second set. Swap the ending sound and you get {この}, {その}, {あの}. These cannot stand alone. They must hold hands with a noun right after them."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the thing."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "パン"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Bread. Now point at it."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このパン"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This bread. Add the topic marker."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このパンは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for this bread. Now the description, using {の} from before: {みせのパン}, the shop's bread."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このパンはみせのパンです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This bread is from the shop. Now let's build a question. Start with the far-away word."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for that over there. Add the noun and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれはケーキです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That over there is cake. Add {か} at the end, and it's a question."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれはケーキですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is that over there cake? One more. Start with umbrella, and point at it."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "このかさは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for this umbrella. Now finish it: Ken's umbrella, is it?"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "このかさはけんのかさですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is this umbrella Ken's umbrella? Notice: when Yuki holds it and says {この}, Ken answers with {それ}, because now it's near her, not him."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "はい、それは私のかさです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Yes, that's my umbrella. Now a swap. Same skeleton, new words."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "そのコーヒーはともだちのコーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That coffee is my friend's coffee. The frame stays the same. Only the words change."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Common mistake: saying {これパン}. It's wrong. The standalone words like {これ} never touch a noun. Here's a trick: the {の} sound in {この} is like {の}, the linker. It needs a noun after it."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And everything snaps onto what you know. For a negative, use {じゃないです}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "それはコーヒーじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's not coffee. Pointing word, {は}, noun, ending. Same frame as always."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "パン",
+            "romaji": "pan",
+            "en": "bread"
+          },
+          {
+            "jp": "このパン",
+            "romaji": "kono pan",
+            "en": "this bread"
+          },
+          {
+            "jp": "このパンは",
+            "romaji": "kono pan wa",
+            "en": "as for this bread"
+          },
+          {
+            "jp": "このパンはみせのパンです。",
+            "romaji": "kono pan wa mise no pan desu.",
+            "en": "This bread is from the shop."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "あれは",
+            "romaji": "are wa",
+            "en": "as for that over there"
+          },
+          {
+            "jp": "あれはケーキです。",
+            "romaji": "are wa keeki desu.",
+            "en": "That over there is cake."
+          },
+          {
+            "jp": "あれはケーキですか。",
+            "romaji": "are wa keeki desu ka.",
+            "en": "Is that over there cake?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "このかさは",
+            "romaji": "kono kasa wa",
+            "en": "as for this umbrella"
+          },
+          {
+            "jp": "このかさはけんのかさですか。",
+            "romaji": "kono kasa wa Ken no kasa desu ka.",
+            "en": "Is this umbrella Ken's?"
+          },
+          {
+            "jp": "はい、それは私のかさです。",
+            "romaji": "hai, sore wa watashi no kasa desu.",
+            "en": "Yes, that's my umbrella."
+          }
+        ]
+      }
+    ],
+    "tip": "これ／それ／あれ stand alone, but この／その／あの always need a noun right after them. Never say これパン. Say このパン, or これはパンです. Memory trick: the の in この is like the linker の, and it always needs a noun after it.",
+    "real_world": {
+      "style": "store announcement",
+      "sentence_jp": "このケーキは、本日のおすすめです。",
+      "sentence_en": "This cake is today's recommendation.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Real Japanese corner! In a bakery or a department store food hall, a clerk might call out something like this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "このケーキは、本日のおすすめです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it down. First chunk:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "このケーキは"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "As for this cake. That's today's {この} plus a noun, then {は}. This is the topic."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "本日の"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "New word: {本日} is a formal way to say today. Stores and broadcasts love it. The {の} links it to the next noun: today's."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "おすすめです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Second new word: {おすすめ} means recommendation. Then {です} at the end. This chunk is the B slot: today's recommendation."
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Altogether: This cake is today's recommendation. Once more, at natural speed."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "このケーキは、本日のおすすめです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "On the news, listen for {この} at the start of a sentence. A reporter will often say {このニュース}, this news, or {この事件}, this incident. The topic is often just this little pointing word plus one noun."
+        }
+      ]
+    }
+  }
+}
