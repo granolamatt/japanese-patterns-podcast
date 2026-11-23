@@ -1,0 +1,1160 @@
+{
+  "title_en": "Where Is the Toilet? Asking Questions at the Station",
+  "title_jp": "えきで しつもん",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "すみません",
+          "kana": "すみません",
+          "en": "excuse me",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "トイレ",
+          "kana": "トイレ",
+          "en": "toilet",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "どこ",
+          "kana": "どこ",
+          "en": "where",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Excuse me, where is the toilet?",
+      "literal": "excuse me, toilet TOPIC where is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "トイレ",
+          "kana": "トイレ",
+          "en": "toilet",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "The toilet is that one over there.",
+      "literal": "toilet TOPIC that-over-there is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. What is that over there?",
+      "literal": "thank you. that-over-there TOPIC what is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / 's",
+          "role": "particle"
+        },
+        {
+          "jp": "でぐち",
+          "kana": "でぐち",
+          "en": "exit",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "だれ",
+          "kana": "だれ",
+          "en": "who",
+          "role": "question-word"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / 's",
+          "role": "particle"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That's the station exit. Whose umbrella is this?",
+      "literal": "that-over-there TOPIC station 'S exit is. this umbrella TOPIC who 'S umbrella is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / my",
+          "role": "particle"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That's my umbrella. Thank you!",
+      "literal": "that TOPIC I 'S umbrella is. thank you"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "でぐち",
+          "kana": "でぐち",
+          "en": "exit",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / at",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "What kind of shop is the one at the exit?",
+      "literal": "exit 'S shop TOPIC what OF shop is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "パン",
+          "kana": "パン",
+          "en": "bread",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "It's a bread shop.",
+      "literal": "bread OF shop is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "今日",
+          "kana": "きょう",
+          "en": "today",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "あさごはん",
+          "kana": "あさごはん",
+          "en": "breakfast",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "パン",
+          "kana": "パン",
+          "en": "bread",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, today's breakfast is bread!",
+      "literal": "well then, today 'S breakfast TOPIC bread is"
+    }
+  ],
+  "explanation": {
+    "summary": "In Japanese, you don't move words around to make a question. Start with an ordinary statement like トイレは あれです (The toilet is that one). Put a question word (どこ where, 何 what, だれ who) in the slot where the answer would go, then add か at the end. That gives トイレは どこですか (Where is the toilet?). The answer then uses the same frame, with the real information in that slot.",
+    "structure_notes": [
+      "Frame: [Topic] は [question word] です か。 The question word sits right before です, in the same slot the answer noun will fill.",
+      "English moves 'where' to the front of the sentence. Japanese leaves it in the answer's position: トイレは どこですか → トイレは あれです.",
+      "何 is read なん before です and before の: 何ですか (nan desu ka), 何の みせ (nan no mise, 'what kind of shop').",
+      "A question word can also join the の pattern: だれの かさ = 'who's umbrella' → 'whose umbrella'. 何の みせ = 'shop of what' → 'what kind of shop'.",
+      "か still marks the question, just like in yes/no questions. The difference is that the answer is information, not はい or いいえ."
+    ],
+    "connects_to": "This is the 〜ですか yes/no question you already know, with a question word in the noun slot. It also combines with の (だれの かさ) and with これ/それ/あれ (あれは 何ですか)."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "どこ",
+          "kana": "どこ",
+          "en": "where",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Where is the station?",
+      "swap": "topic: トイレ → えき"
+    },
+    {
+      "words": [
+        {
+          "jp": "でぐち",
+          "kana": "でぐち",
+          "en": "exit",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "どこ",
+          "kana": "どこ",
+          "en": "where",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Where is the exit?",
+      "swap": "topic: えき → でぐち"
+    },
+    {
+      "words": [
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "What is that?",
+      "swap": "question word: どこ → 何 (topic: でぐち → それ)"
+    },
+    {
+      "words": [
+        {
+          "jp": "せんせい",
+          "kana": "せんせい",
+          "en": "teacher",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "だれ",
+          "kana": "だれ",
+          "en": "who",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Who is the teacher?",
+      "swap": "question word: 何 → だれ (topic: それ → せんせい)"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "メニュー",
+          "kana": "メニュー",
+          "en": "menu",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "だれ",
+          "kana": "だれ",
+          "en": "who",
+          "role": "question-word"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "メニュー",
+          "kana": "メニュー",
+          "en": "menu",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Whose menu is this?",
+      "swap": "answer slot: だれ → だれの メニュー (topic: この メニュー)"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "えき",
+      "kana": "えき",
+      "en": "station"
+    },
+    {
+      "jp": "トイレ",
+      "kana": "トイレ",
+      "en": "toilet / restroom"
+    },
+    {
+      "jp": "でぐち",
+      "kana": "でぐち",
+      "en": "exit"
+    },
+    {
+      "jp": "どこ",
+      "kana": "どこ",
+      "en": "where"
+    },
+    {
+      "jp": "何",
+      "kana": "なん",
+      "en": "what"
+    },
+    {
+      "jp": "だれ",
+      "kana": "だれ",
+      "en": "who"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa nan / doko / dare desu ka",
+    "pattern_jp": "Aは なん／どこ／だれ ですか",
+    "pattern_english": "What / where / who is A?",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "the topic you're asking about: a thing, place, or person (トイレ, あれ, このかさ, えき)"
+      },
+      {
+        "slot": "question word",
+        "fits": "なん (what), どこ (where), or だれ (who). It goes exactly where the answer will go. Add の for 'whose' (だれの) or 'what kind of' (なんの)"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {Aはなんですか}. It means: What is A?"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And it has two cousins: {Aはどこですか}, Where is A? And {Aはだれですか}, Who is A?"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the big secret. Japanese doesn't move question words to the front like English does. The question word sits right where the answer will go."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "You already know {AはBです}, A is B. To ask a question, just drop a question word into the B slot and finish with {ですか}."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "So: {なん} means what. {どこ} means where. {だれ} means who. And {ですか} still comes last, turning it into a question."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one you'll really need. Start with the topic."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "トイレ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Toilet. Now add the topic marker {は}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "トイレは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for the toilet. Now put the question word in the answer slot."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "トイレはどこ"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for the toilet, where. Finish with {ですか}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "トイレはどこですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Where is the toilet? And the answer simply replaces {どこ}:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "トイレはあれです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "The toilet is that one over there. Same skeleton, answer dropped into the same slot."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Second one. Start with that thing over there, {あれ}, add {は}, then {なん}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれは"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれはなん"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あれはなんですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "What is that over there?"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Third. Start with {このかさ}, this umbrella. Add {は}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このかさは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for this umbrella. Now remember {の}, the word for 's? Stick it on {だれ}, and {だれの} means whose."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このかさはだれのかさ"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このかさはだれのかさですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Whose umbrella is this? The answer, again, slides into that slot:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "それは私のかさです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's my umbrella."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a swap. Keep the skeleton, change the topic."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "えきはどこですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Where is the station?"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "でぐちはどこですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Where is the exit? One pattern, endless questions."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "A common mistake: the word for what is {なに}, but right before {です} it shortens to {なん}. So say {なんですか}, never {なにですか}."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "And {なん} plus {の} gives {なんの}, what kind of. Like this:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "でぐちのみせはなんのみせですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "What kind of shop is the shop at the exit?"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "So today's piece snaps right onto everything you know: {は} and {です} from day one, {か} for questions, {の} for whose, and {これ}, {それ}, {あれ} for your answers."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "トイレ",
+            "romaji": "toire",
+            "en": "toilet"
+          },
+          {
+            "jp": "トイレは",
+            "romaji": "toire wa",
+            "en": "as for the toilet"
+          },
+          {
+            "jp": "トイレはどこ",
+            "romaji": "toire wa doko",
+            "en": "as for the toilet, where"
+          },
+          {
+            "jp": "トイレはどこですか。",
+            "romaji": "toire wa doko desu ka.",
+            "en": "Where is the toilet?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "あれ",
+            "romaji": "are",
+            "en": "that over there"
+          },
+          {
+            "jp": "あれは",
+            "romaji": "are wa",
+            "en": "as for that over there"
+          },
+          {
+            "jp": "あれはなん",
+            "romaji": "are wa nan",
+            "en": "as for that over there, what"
+          },
+          {
+            "jp": "あれはなんですか。",
+            "romaji": "are wa nan desu ka.",
+            "en": "What is that over there?"
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "このかさ",
+            "romaji": "kono kasa",
+            "en": "this umbrella"
+          },
+          {
+            "jp": "このかさは",
+            "romaji": "kono kasa wa",
+            "en": "as for this umbrella"
+          },
+          {
+            "jp": "このかさはだれのかさ",
+            "romaji": "kono kasa wa dare no kasa",
+            "en": "as for this umbrella, whose umbrella"
+          },
+          {
+            "jp": "このかさはだれのかさですか。",
+            "romaji": "kono kasa wa dare no kasa desu ka.",
+            "en": "Whose umbrella is this?"
+          }
+        ]
+      }
+    ],
+    "tip": "Don't move the question word to the front like in English. Put it right where the answer will go: トイレはどこですか → トイレはあれです. Also, \"what\" is なに, but before です it becomes なん: say なんですか, never なにですか.",
+    "real_world": {
+      "style": "TV quiz show host",
+      "sentence_jp": "では、もんだいです。このどうぶつはなんですか。",
+      "sentence_en": "Okay, here's the question. What is this animal?",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "On a Japanese TV quiz show, the host might say this:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "natural",
+          "text": "では、もんだいです。このどうぶつはなんですか。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it down."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "では、もんだいです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{では} means okay then. {もんだい} is a new word: question, or quiz problem. So: Okay, here's the question. Notice it's the {AはBです} shape, with the topic left out."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "このどうぶつは"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{どうぶつ} is another new word: animal. So, as for this animal. This is the A slot, the topic, with {この} meaning this."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "teaching",
+          "text": "なんですか。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "What is it? {なん} sits in the answer slot, and {ですか} closes the question. The contestants' answer will go right there."
+        },
+        {
+          "kind": "jp",
+          "speaker": "B",
+          "speed": "natural",
+          "text": "では、もんだいです。このどうぶつはなんですか。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Okay, here's the question. What is this animal? In real broadcasts, listen for {なん}, {どこ}, or {だれ} just before {ですか}. That tells you a question is coming, and what kind of answer it wants."
+        }
+      ]
+    }
+  }
+}

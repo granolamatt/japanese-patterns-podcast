@@ -49,6 +49,16 @@
       "title": "これは あさごはんです — This Is My Breakfast",
       "mp3": "episodes/2026-11-22/2026-11-22_ep005.mp3",
       "data_file": "episodes/2026-11-22/2026-11-22_ep005.json"
+    },
+    {
+      "number": 6,
+      "date": "2026-11-23",
+      "topic": "asking for directions at a station",
+      "pattern_id": "question-words",
+      "pattern": "なん／どこ／だれ",
+      "title": "えきで しつもん — Where Is the Toilet? Asking Questions at the Station",
+      "mp3": "episodes/2026-11-23/2026-11-23_ep006.mp3",
+      "data_file": "episodes/2026-11-23/2026-11-23_ep006.json"
     }
   ],
   "vocab": {
@@ -81,8 +91,8 @@
       "en": "I",
       "role": "pronoun",
       "first_episode": 1,
-      "uses": 18,
-      "last_episode": 5
+      "uses": 19,
+      "last_episode": 6
     },
     "コーヒー": {
       "kana": "コーヒー",
@@ -97,16 +107,16 @@
       "en": "is / am (polite)",
       "role": "copula",
       "first_episode": 1,
-      "uses": 58,
-      "last_episode": 5
+      "uses": 72,
+      "last_episode": 6
     },
     "じゃあ": {
       "kana": "じゃあ",
       "en": "well then",
       "role": "expression",
       "first_episode": 1,
-      "uses": 6,
-      "last_episode": 5
+      "uses": 7,
+      "last_episode": 6
     },
     "おちゃ": {
       "kana": "おちゃ",
@@ -145,8 +155,8 @@
       "en": "thank you",
       "role": "expression",
       "first_episode": 1,
-      "uses": 6,
-      "last_episode": 5
+      "uses": 8,
+      "last_episode": 6
     },
     "いただきます": {
       "kana": "いただきます",
@@ -169,16 +179,16 @@
       "en": "sorry",
       "role": "expression",
       "first_episode": 1,
-      "uses": 2,
-      "last_episode": 4
+      "uses": 3,
+      "last_episode": 6
     },
     "今日": {
       "kana": "きょう",
       "en": "today",
       "role": "noun",
       "first_episode": 2,
-      "uses": 5,
-      "last_episode": 5
+      "uses": 6,
+      "last_episode": 6
     },
     "あめ": {
       "kana": "あめ",
@@ -249,8 +259,8 @@
       "en": "teacher",
       "role": "noun",
       "first_episode": 3,
-      "uses": 4,
-      "last_episode": 4
+      "uses": 5,
+      "last_episode": 6
     },
     "日本人": {
       "kana": "にほんじん",
@@ -281,16 +291,16 @@
       "en": "shop / restaurant",
       "role": "noun",
       "first_episode": 4,
-      "uses": 5,
-      "last_episode": 5
+      "uses": 8,
+      "last_episode": 6
     },
     "メニュー": {
       "kana": "メニュー",
       "en": "menu",
       "role": "noun",
       "first_episode": 4,
-      "uses": 1,
-      "last_episode": 4
+      "uses": 3,
+      "last_episode": 6
     },
     "ケーキ": {
       "kana": "ケーキ",
@@ -313,48 +323,96 @@
       "en": "that (near you)",
       "role": "pronoun",
       "first_episode": 5,
-      "uses": 3,
-      "last_episode": 5
+      "uses": 5,
+      "last_episode": 6
     },
     "あさごはん": {
       "kana": "あさごはん",
       "en": "breakfast",
       "role": "noun",
       "first_episode": 5,
-      "uses": 1,
-      "last_episode": 5
+      "uses": 2,
+      "last_episode": 6
     },
     "この": {
       "kana": "この",
       "en": "this (+ noun)",
       "role": "pronoun",
       "first_episode": 5,
-      "uses": 4,
-      "last_episode": 5
+      "uses": 6,
+      "last_episode": 6
     },
     "パン": {
       "kana": "パン",
       "en": "bread",
       "role": "noun",
       "first_episode": 5,
-      "uses": 2,
-      "last_episode": 5
+      "uses": 4,
+      "last_episode": 6
     },
     "あれ": {
       "kana": "あれ",
       "en": "that (over there)",
       "role": "pronoun",
       "first_episode": 5,
-      "uses": 2,
-      "last_episode": 5
+      "uses": 5,
+      "last_episode": 6
     },
     "かさ": {
       "kana": "かさ",
       "en": "umbrella",
       "role": "noun",
       "first_episode": 5,
+      "uses": 6,
+      "last_episode": 6
+    },
+    "トイレ": {
+      "kana": "トイレ",
+      "en": "toilet",
+      "role": "noun",
+      "first_episode": 6,
+      "uses": 2,
+      "last_episode": 6
+    },
+    "どこ": {
+      "kana": "どこ",
+      "en": "where",
+      "role": "question-word",
+      "first_episode": 6,
       "uses": 3,
-      "last_episode": 5
+      "last_episode": 6
+    },
+    "何": {
+      "kana": "なん",
+      "en": "what",
+      "role": "question-word",
+      "first_episode": 6,
+      "uses": 3,
+      "last_episode": 6
+    },
+    "えき": {
+      "kana": "えき",
+      "en": "station",
+      "role": "noun",
+      "first_episode": 6,
+      "uses": 2,
+      "last_episode": 6
+    },
+    "でぐち": {
+      "kana": "でぐち",
+      "en": "exit",
+      "role": "noun",
+      "first_episode": 6,
+      "uses": 3,
+      "last_episode": 6
+    },
+    "だれ": {
+      "kana": "だれ",
+      "en": "who",
+      "role": "question-word",
+      "first_episode": 6,
+      "uses": 3,
+      "last_episode": 6
     }
   },
   "patterns_covered": [
@@ -362,6 +420,7 @@
     "〜ですか",
     "〜じゃないです",
     "〜の〜",
-    "これ／それ／あれ・この〜"
+    "これ／それ／あれ・この〜",
+    "なん／どこ／だれ"
   ]
 }

@@ -7,8 +7,9 @@
 | 3 | AはBじゃないです | A wa B ja nai desu | **A is not B** | 私(わたし)は学生(がくせい)じゃないです。 — I'm not a student. |
 | 4 | AのB | A no B | **A's B / the B of A** | これは私(わたし)のおちゃです。 — This is my tea. |
 | 5 | これはAです／このAはBです | kore wa A desu / kono A wa B desu | **This is A / This A is B** | これは私(わたし)のコーヒーです。 — This is my coffee. |
+| 6 | Aは なん／どこ／だれ ですか | A wa nan / doko / dare desu ka | **What / where / who is A?** | えきはどこですか。 — Where is the station? |
 
-# Roadmap: 5 of 800 patterns
+# Roadmap: 6 of 800 patterns
 
 
 ## N5
@@ -18,7 +19,7 @@
 - [x] 3. 〜じゃないです · [Topic] wa [Noun] ja nai desu = [Topic] is not [Noun]
 - [x] 4. 〜の〜 · [Noun A] no [Noun B] = A's B / the B of A
 - [x] 5. これ／それ／あれ・この〜 · kore wa [Noun] desu / kono [Noun] wa ... = This is [Noun] / this [Noun] is ...
-- [ ] 6. なん／どこ／だれ · [Topic] wa nan desu ka = What is [Topic]?
+- [x] 6. なん／どこ／だれ · [Topic] wa nan desu ka = What is [Topic]?
 - [ ] 7. 〜も · [Topic] mo [Noun] desu = [Topic] is also [Noun]
 - [ ] 8. い-adjective + です · [Topic] wa [i-adj] desu = [Topic] is [adj]
 - [ ] 9. 〜くないです · [Topic] wa [i-adj stem]-kunai desu = [Topic] is not [adj]
