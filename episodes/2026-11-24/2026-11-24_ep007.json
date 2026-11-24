@@ -1,0 +1,1260 @@
+{
+  "title_en": "Weekend Plans — \"Me Too!\" with も",
+  "title_jp": "しゅうまつの よてい",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "しゅうまつ",
+          "kana": "しゅうまつ",
+          "en": "weekend",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken, are you off this weekend?",
+      "literal": "Ken, weekend TOPIC day-off is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "はい",
+          "kana": "はい",
+          "en": "yes",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yes, I'm off. Are you off too, Yuki?",
+      "literal": "yes, day-off is. Yuki ALSO day-off is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "どようび",
+          "kana": "どようび",
+          "en": "Saturday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah, I'm off too. What's your plan for Saturday?",
+      "literal": "yeah, I ALSO day-off am. Saturday OF plan TOPIC what is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "あさごはん",
+          "kana": "あさごはん",
+          "en": "breakfast",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "A movie. And breakfast is at the place by the station.",
+      "literal": "movie is. breakfast TOPIC station OF shop is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / my",
+          "role": "particle"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? My plan is a movie too.",
+      "literal": "oh really. I OF plan ALSO movie is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "にちようび",
+          "kana": "にちようび",
+          "en": "Sunday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, what's your plan for Sunday?",
+      "literal": "well then, Sunday OF plan TOPIC what is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "My friend's restaurant.",
+      "literal": "friend 'S restaurant is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ともだち",
+          "kana": "ともだち",
+          "en": "friend",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "どこ",
+          "kana": "どこ",
+          "en": "where",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Where is your friend's restaurant?",
+      "literal": "friend 'S restaurant TOPIC where is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "でぐち",
+          "kana": "でぐち",
+          "en": "exit",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "At the station exit.",
+      "literal": "station OF exit is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "あさごはん",
+          "kana": "あさごはん",
+          "en": "breakfast",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop / restaurant",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? My breakfast place is at the station too.",
+      "literal": "oh really. breakfast OF restaurant ALSO station is"
+    }
+  ],
+  "explanation": {
+    "summary": "Until now you've used は to mark the topic: 私は がくせいです (As for me, I'm a student). When you want to say 'X too' or 'X also', you swap は out for も. The rest of the sentence stays exactly the same, word for word: topic, then the particle, then the noun, then です. So 私は やすみです (I'm off) becomes 私も やすみです (I'm off too). も does the 'too' job and the topic job together, so you never write は and も side by side.",
+    "structure_notes": [
+      "Slot order doesn't change: [Topic] + も + [Noun] + です. Only the particle after the topic changes, from は to も.",
+      "も goes right after the thing that is 'also' true. In 私の よていも えいがです, the 'also' belongs to 私の よてい (my plan), so も comes after that whole phrase.",
+      "Never use は and も together. も replaces は completely. 私はも is wrong.",
+      "To ask a question, add か at the end the usual way: ゆきも やすみですか。= Are you off too, Yuki?",
+      "In English, 'too' comes at the end of the sentence, but in Japanese も comes right after the word it's about, near the start of the sentence."
+    ],
+    "connects_to": "This is the same 〜は〜です frame from episode 1, with も in the topic marker's place. It also works with の phrases from earlier episodes: 私の よていも… attaches も to the whole 'my plan' chunk, just as は would."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "かいしゃいん",
+          "kana": "かいしゃいん",
+          "en": "office worker",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "am",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "I'm an office worker too.",
+      "swap": "base sentence: 私も [noun] です"
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "かいしゃいん",
+          "kana": "かいしゃいん",
+          "en": "office worker",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken is an office worker too.",
+      "swap": "topic: 私 → けん"
+    },
+    {
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "アメリカ人",
+          "kana": "アメリカじん",
+          "en": "American",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is Ken American too?",
+      "swap": "noun: かいしゃいん → アメリカ人 (+ か to make a question)"
+    },
+    {
+      "words": [
+        {
+          "jp": "あした",
+          "kana": "あした",
+          "en": "tomorrow",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Tomorrow is a day off too.",
+      "swap": "topic: けん → あした; noun: → やすみ"
+    },
+    {
+      "words": [
+        {
+          "jp": "にちようび",
+          "kana": "にちようび",
+          "en": "Sunday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of",
+          "role": "particle"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Sunday's plan is a movie too.",
+      "swap": "topic: あした → にちようびの よてい (a の phrase); noun: → えいが"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "しゅうまつ",
+      "kana": "しゅうまつ",
+      "en": "weekend"
+    },
+    {
+      "jp": "やすみ",
+      "kana": "やすみ",
+      "en": "day off / holiday"
+    },
+    {
+      "jp": "よてい",
+      "kana": "よてい",
+      "en": "plan / schedule"
+    },
+    {
+      "jp": "えいが",
+      "kana": "えいが",
+      "en": "movie"
+    },
+    {
+      "jp": "どようび",
+      "kana": "どようび",
+      "en": "Saturday"
+    },
+    {
+      "jp": "にちようび",
+      "kana": "にちようび",
+      "en": "Sunday"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A mo B desu",
+    "pattern_jp": "AもBです",
+    "pattern_english": "A is also B / A is B, too",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "The topic that is 'also' true: a person (わたし, ゆき), a thing, a day (にちようび), or a の-chunk like わたしのよてい. も replaces は here."
+      },
+      {
+        "slot": "B",
+        "fits": "A noun that was already said about something else: a day off (やすみ), a movie (えいが), a place (えき)."
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {AもBです}. It means: A is also B. Or: A is B, too."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "The only new piece is one tiny word: {も}. It means also, or too."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしもやすみです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That means: I'm off too."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here are the slots. A is the topic: a person, a thing, a day. B is the noun you're saying about it. And {も} sits exactly where {は} used to sit."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "So {も} doesn't get added to the sentence. It replaces {は}. Topic, then {も}, then the noun, then {です} last, as always."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Notice the word order. In English, also floats in the middle: I am also off. In Japanese, {も} sticks right onto the thing that's also true: I, too, day off, is."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the topic {わたし}, meaning I."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたし"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add {も}. Now it's: me too."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしも"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add {やすみ}, a day off, and finish with {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしもやすみです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "I'm off too. Yuki says exactly this in today's dialogue."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a longer topic. Start with {わたしのよてい}: my plan."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのよてい"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add {も}: my plan, too."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのよていも"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Then {えいが}, a movie, and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしのよていもえいがです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My plan is a movie too. Everything before {も} is the topic, so it's the plan that's also a movie."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Third, let's make a question. Start with a name."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ゆき"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add {も}: Yuki too."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ゆきも"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add the noun and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ゆきもやすみです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Yuki is off too. Now add {か} at the very end."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "ゆきもやすみですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Are you off too, Yuki? That's Ken's line."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Same skeleton, new words. Listen to Ken:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "あさごはんのみせもえきです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My breakfast place is at the station too. Topic: the breakfast place. Then {も}. Then {えき}, station. Then {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "にちようびもやすみです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Sunday is a day off too. Only the topic changed. The pattern stays the same."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "The most common beginner mistake is putting {は} and {も} together. Don't stack them. {も} takes {は}'s seat."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Memory trick: think of {も} as a little me-too sticker. You stick it on the new topic, and the rest of the sentence repeats what you already heard."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This snaps onto what you already know. Put it with {じゃないです} and it means: not either."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "わたしもやすみじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "I'm not off either. And {の} still builds the topic, like {ともだちのみせ}, a friend's restaurant."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "わたし",
+            "romaji": "watashi",
+            "en": "I"
+          },
+          {
+            "jp": "わたしも",
+            "romaji": "watashi mo",
+            "en": "me too / I also"
+          },
+          {
+            "jp": "わたしもやすみです。",
+            "romaji": "watashi mo yasumi desu.",
+            "en": "I'm off too."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "わたしのよてい",
+            "romaji": "watashi no yotei",
+            "en": "my plan"
+          },
+          {
+            "jp": "わたしのよていも",
+            "romaji": "watashi no yotei mo",
+            "en": "my plan, too"
+          },
+          {
+            "jp": "わたしのよていもえいがです。",
+            "romaji": "watashi no yotei mo eiga desu.",
+            "en": "My plan is a movie too."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "ゆき",
+            "romaji": "Yuki",
+            "en": "Yuki"
+          },
+          {
+            "jp": "ゆきも",
+            "romaji": "Yuki mo",
+            "en": "Yuki too"
+          },
+          {
+            "jp": "ゆきもやすみです。",
+            "romaji": "Yuki mo yasumi desu.",
+            "en": "Yuki is off too."
+          },
+          {
+            "jp": "ゆきもやすみですか。",
+            "romaji": "Yuki mo yasumi desu ka.",
+            "en": "Are you off too, Yuki?"
+          }
+        ]
+      }
+    ],
+    "tip": "も replaces は. Don't say both (no 'わたしはも'). Think of も as a 'me-too' sticker you put on the new topic, and the rest of the sentence repeats what was already said.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "あしたの東京も雨です。",
+      "sentence_en": "Tomorrow, Tokyo will have rain too.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Real Japanese corner! On a TV weather report, the presenter has just said Osaka will be rainy. Then they turn to Tokyo:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたの東京も雨です。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's take it apart."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あしたの"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{あした} is a new word. It means tomorrow. With {の} it means tomorrow's."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "東京も"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Tokyo, plus {も}. So tomorrow's Tokyo is slot A, the topic, and {も} says: Tokyo too."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "雨です"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{あめ} is the second new word. It means rain. That's slot B, and then {です}. Tomorrow, Tokyo will have rain too."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたの東京も雨です。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "In real forecasts and news, listen for {も} right after a place or a person. It's the speaker telling you: same thing here too."
+        }
+      ]
+    }
+  }
+}

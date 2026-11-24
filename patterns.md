@@ -8,8 +8,9 @@
 | 4 | AのB | A no B | **A's B / the B of A** | これは私(わたし)のおちゃです。 — This is my tea. |
 | 5 | これはAです／このAはBです | kore wa A desu / kono A wa B desu | **This is A / This A is B** | これは私(わたし)のコーヒーです。 — This is my coffee. |
 | 6 | Aは なん／どこ／だれ ですか | A wa nan / doko / dare desu ka | **What / where / who is A?** | えきはどこですか。 — Where is the station? |
+| 7 | AもBです | A mo B desu | **A is also B / A is B, too** | 私(わたし)もかいしゃいんです。 — I'm an office worker too. |
 
-# Roadmap: 6 of 800 patterns
+# Roadmap: 7 of 800 patterns
 
 
 ## N5
@@ -20,7 +21,7 @@
 - [x] 4. 〜の〜 · [Noun A] no [Noun B] = A's B / the B of A
 - [x] 5. これ／それ／あれ・この〜 · kore wa [Noun] desu / kono [Noun] wa ... = This is [Noun] / this [Noun] is ...
 - [x] 6. なん／どこ／だれ · [Topic] wa nan desu ka = What is [Topic]?
-- [ ] 7. 〜も · [Topic] mo [Noun] desu = [Topic] is also [Noun]
+- [x] 7. 〜も · [Topic] mo [Noun] desu = [Topic] is also [Noun]
 - [ ] 8. い-adjective + です · [Topic] wa [i-adj] desu = [Topic] is [adj]
 - [ ] 9. 〜くないです · [Topic] wa [i-adj stem]-kunai desu = [Topic] is not [adj]
 - [ ] 10. な-adjective + です · [Topic] wa [na-adj] desu / ja nai desu = [Topic] is / isn't [adj]
