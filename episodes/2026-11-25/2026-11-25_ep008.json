@@ -1,0 +1,1109 @@
+{
+  "title_en": "This Shirt Is Cute! (Shopping and Prices)",
+  "title_jp": "この シャツは かわいいです",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "シャツ",
+          "kana": "シャツ",
+          "en": "shirt",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "かわいい",
+          "kana": "かわいい",
+          "en": "cute",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken, this shirt is cute.",
+      "literal": "Ken, this shirt TOPIC cute is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "そうですね",
+          "kana": "そうですね",
+          "en": "that's right",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "すみません",
+          "kana": "すみません",
+          "en": "excuse me",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that (near you)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "いくら",
+          "kana": "いくら",
+          "en": "how much",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah, it is. Sorry, how much is that?",
+      "literal": "Yeah, that's so. Excuse me, that TOPIC how-much is QUESTION."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "5000",
+          "kana": "ごせん",
+          "en": "5000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "It's 5,000 yen.",
+      "literal": "5000 yen is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "5000",
+          "kana": "ごせん",
+          "en": "5000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "たかい",
+          "kana": "たかい",
+          "en": "expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "5,000 yen? That's expensive.",
+      "literal": "5000 yen is QUESTION. That TOPIC expensive is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "いくら",
+          "kana": "いくら",
+          "en": "how much",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, how much is this one?",
+      "literal": "Well then, this TOPIC how-much is QUESTION."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "2000",
+          "kana": "にせん",
+          "en": "2000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすい",
+          "kana": "やすい",
+          "en": "cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "It's 2,000 yen. That one's cheap.",
+      "literal": "2000 yen is. That TOPIC cheap is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "どようび",
+          "kana": "どようび",
+          "en": "Saturday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / 's (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / for (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "シャツ",
+          "kana": "シャツ",
+          "en": "shirt",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "OK then, this one. It's my shirt for Saturday's movie.",
+      "literal": "Well then, this is. Saturday OF movie OF shirt is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "それ",
+          "kana": "それ",
+          "en": "that",
+          "role": "pronoun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also (replaces は)",
+          "role": "particle"
+        },
+        {
+          "jp": "かわいい",
+          "kana": "かわいい",
+          "en": "cute",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah. That one is cute too.",
+      "literal": "Yeah. That ALSO cute is."
+    }
+  ],
+  "explanation": {
+    "summary": "Until now, the slot before です always held a noun: これは シャツです (This is a shirt). Today a describing word goes into that same slot: この シャツは かわいいです (This shirt is cute). These describing words are called い-adjectives because they all end in い: かわいい (cute), たかい (expensive), やすい (cheap). The frame stays the same: topic + は, then the adjective, then です. Here です mostly makes the sentence polite. The adjective already carries the meaning 'is cute'.",
+    "structure_notes": [
+      "Word order: [Topic] は [い-adjective] です。 → この シャツは たかいです。 = 'this shirt TOPIC expensive is'. The adjective comes at the end, just before です, the same as a noun did.",
+      "は marks what you are talking about (the shirt). The adjective after it tells you what the topic is like.",
+      "The final い is part of the adjective, so keep it. Say たかいです, not たかです.",
+      "To ask a question, add か as usual: それは たかいですか。 = Is that expensive?",
+      "Watch out: to say 'not expensive', you can't just use じゃないです with い-adjectives. That is a different form, and we'll learn it in a later episode. For now, only use the positive form."
+    ],
+    "connects_to": "This is the 〜は〜です frame from episode 1 with an adjective in the noun's place. も still swaps in for は (それも かわいいです = that one is cute too), and この/それ still pick out which thing the topic is."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "シャツ",
+          "kana": "シャツ",
+          "en": "shirt",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすい",
+          "kana": "やすい",
+          "en": "cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This shirt is cheap.",
+      "swap": "adjective: かわいい → やすい"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすい",
+          "kana": "やすい",
+          "en": "cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This cake is cheap.",
+      "swap": "noun: シャツ → ケーキ"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "かわいい",
+          "kana": "かわいい",
+          "en": "cute",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This umbrella is cute.",
+      "swap": "noun + adjective: ケーキ → かさ, やすい → かわいい"
+    },
+    {
+      "words": [
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "of / 's (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "たかい",
+          "kana": "たかい",
+          "en": "expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Is the shop's coffee expensive?",
+      "swap": "topic: この かさ → みせの コーヒー; adjective → たかい; add か for a question"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "パン",
+          "kana": "パン",
+          "en": "bread",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also (replaces は)",
+          "role": "particle"
+        },
+        {
+          "jp": "やすい",
+          "kana": "やすい",
+          "en": "cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This bread is cheap too.",
+      "swap": "particle: は → も (also)"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "シャツ",
+      "kana": "シャツ",
+      "en": "shirt"
+    },
+    {
+      "jp": "いくら",
+      "kana": "いくら",
+      "en": "how much (price)"
+    },
+    {
+      "jp": "えん",
+      "kana": "えん",
+      "en": "yen"
+    },
+    {
+      "jp": "たかい",
+      "kana": "たかい",
+      "en": "expensive"
+    },
+    {
+      "jp": "やすい",
+      "kana": "やすい",
+      "en": "cheap"
+    },
+    {
+      "jp": "かわいい",
+      "kana": "かわいい",
+      "en": "cute"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B desu (B = an i-adjective)",
+    "pattern_jp": "AはBです（B＝い形容詞）",
+    "pattern_english": "A is B (B = a describing word like cute, expensive, cheap)",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "The topic: a thing, person or place, e.g. これ, それ, このシャツ"
+      },
+      {
+        "slot": "B",
+        "fits": "An い-adjective, a describing word that ends in い: かわいい (cute), たかい (expensive), やすい (cheap), さむい (cold)"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "text": "Welcome back! Today's pattern is {AはBです}, where B is a describing word. It means: A is B. For example, this shirt is cute.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "You already know this skeleton from nouns. Today, the B slot holds an adjective instead of a noun.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Slot A is the topic, the thing you're talking about. The little word {は} marks it, like saying, 'as for this.'",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Slot B is the describing word. Today's describing words all end in the sound {い}. Here are three: {かわいい}, cute. {たかい}, expensive. {やすい}, cheap.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "And {です} comes last, as always. It makes the sentence polite and finished. In English, 'is' goes in the middle. In Japanese, the describing word comes first, then {です} at the very end.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Let's build one. Start with the topic: this shirt.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "このシャツ",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "That's 'this shirt.' Now add the topic marker.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "このシャツは",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "'As for this shirt...' Now add 'cute' and finish with {です}.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "このシャツはかわいいです。",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "This shirt is cute.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Here's another one, about a price. Start with 'that.'",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "それ",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "それは",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "'As for that...' Now add 'expensive' and {です}.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "それはたかいです。",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "That's expensive.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "One more. Start with 'this,' add {は}, then 'cheap.'",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "これ",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "これは",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "これはやすいです。",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "This is cheap.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Now a swap. Keep 'this shirt,' and just change the describing word.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "このシャツはたかいです。",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "This shirt is expensive.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "このシャツはやすいです。",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "This shirt is cheap. Same skeleton, new word. That's the whole trick.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "A common mistake: cutting off the last sound. The {い} is part of the word, so always keep it. Say {たかいです}, never stop early. Think of {い} as the adjective's little tail, and it always stays on.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Your old patterns work here too. Add {か} to ask a question.",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "それはたかいですか。",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "Is that expensive? And swap {は} for {も} to say 'too.'",
+        "speaker": "A",
+        "speed": "teaching"
+      },
+      {
+        "kind": "jp",
+        "text": "それもかわいいです。",
+        "speaker": "B",
+        "speed": "teaching"
+      },
+      {
+        "kind": "en",
+        "text": "That one is cute too. Listen for the describing words and the {です} at the end. Now let's hear Yuki and Ken use it.",
+        "speaker": "A",
+        "speed": "teaching"
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "このシャツ",
+            "romaji": "kono shatsu",
+            "en": "this shirt"
+          },
+          {
+            "jp": "このシャツは",
+            "romaji": "kono shatsu wa",
+            "en": "as for this shirt..."
+          },
+          {
+            "jp": "このシャツはかわいいです。",
+            "romaji": "kono shatsu wa kawaii desu.",
+            "en": "This shirt is cute."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "それ",
+            "romaji": "sore",
+            "en": "that"
+          },
+          {
+            "jp": "それは",
+            "romaji": "sore wa",
+            "en": "as for that..."
+          },
+          {
+            "jp": "それはたかいです。",
+            "romaji": "sore wa takai desu.",
+            "en": "That's expensive."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "これ",
+            "romaji": "kore",
+            "en": "this"
+          },
+          {
+            "jp": "これは",
+            "romaji": "kore wa",
+            "en": "as for this..."
+          },
+          {
+            "jp": "これはやすいです。",
+            "romaji": "kore wa yasui desu.",
+            "en": "This is cheap."
+          }
+        ]
+      }
+    ],
+    "tip": "The final い is part of an い-adjective, so never drop it: たかいです, not たかです. Think of い as the adjective's little tail that always stays on. Also remember word order: the describing word comes first and です always comes last.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "あしたのとうきょうは、さむいです。",
+      "sentence_en": "Tomorrow, Tokyo will be cold. (Literally: As for tomorrow's Tokyo, it is cold.)",
+      "segments": [
+        {
+          "kind": "en",
+          "text": "Real Japanese time! At the end of a TV weather report, the presenter might say something like this.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "jp",
+          "text": "あしたのとうきょうは、さむいです。",
+          "speaker": "A",
+          "speed": "natural"
+        },
+        {
+          "kind": "en",
+          "text": "Let's take it apart, piece by piece.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "jp",
+          "text": "あしたの",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "en",
+          "text": "New word: {あした} means tomorrow. Then comes {の}, the linking word you know. So: tomorrow's.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "jp",
+          "text": "とうきょうは",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "en",
+          "text": "Tokyo, plus {は}. Together, 'as for tomorrow's Tokyo.' That's the whole A slot, the topic.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "jp",
+          "text": "さむいです",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "en",
+          "text": "Second new word: {さむい} means cold. Hear the little {い} tail? It's a describing word, so it fills the B slot, and {です} closes the sentence.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "en",
+          "text": "Here it is again, at full speed. Tomorrow, Tokyo will be cold.",
+          "speaker": "A",
+          "speed": "teaching"
+        },
+        {
+          "kind": "jp",
+          "text": "あしたのとうきょうは、さむいです。",
+          "speaker": "A",
+          "speed": "natural"
+        },
+        {
+          "kind": "en",
+          "text": "In real weather reports, listen for a place name followed by {は}, then a describing word right before {です}. That last bit tells you the forecast.",
+          "speaker": "A",
+          "speed": "teaching"
+        }
+      ]
+    }
+  }
+}
