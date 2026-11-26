@@ -79,6 +79,16 @@
       "title": "この シャツは かわいいです — This Shirt Is Cute! (Shopping and Prices)",
       "mp3": "episodes/2026-11-25/2026-11-25_ep008.mp3",
       "data_file": "episodes/2026-11-25/2026-11-25_ep008.json"
+    },
+    {
+      "number": 9,
+      "date": "2026-11-26",
+      "topic": "at the convenience store",
+      "pattern_id": "i-adj-neg",
+      "pattern": "〜くないです",
+      "title": "コンビニ — At the Convenience Store: It's Not Expensive!",
+      "mp3": "episodes/2026-11-26/2026-11-26_ep009.mp3",
+      "data_file": "episodes/2026-11-26/2026-11-26_ep009.json"
     }
   ],
   "vocab": {
@@ -95,8 +105,8 @@
       "en": "Ken (name)",
       "role": "noun",
       "first_episode": 1,
-      "uses": 17,
-      "last_episode": 8
+      "uses": 18,
+      "last_episode": 9
     },
     "ゆき": {
       "kana": "ゆき",
@@ -119,32 +129,32 @@
       "en": "coffee",
       "role": "noun",
       "first_episode": 1,
-      "uses": 15,
-      "last_episode": 8
+      "uses": 17,
+      "last_episode": 9
     },
     "です": {
       "kana": "です",
       "en": "is / am (polite)",
       "role": "copula",
       "first_episode": 1,
-      "uses": 106,
-      "last_episode": 8
+      "uses": 125,
+      "last_episode": 9
     },
     "じゃあ": {
       "kana": "じゃあ",
       "en": "well then",
       "role": "expression",
       "first_episode": 1,
-      "uses": 10,
-      "last_episode": 8
+      "uses": 11,
+      "last_episode": 9
     },
     "おちゃ": {
       "kana": "おちゃ",
       "en": "tea",
       "role": "noun",
       "first_episode": 1,
-      "uses": 12,
-      "last_episode": 5
+      "uses": 13,
+      "last_episode": 9
     },
     "はい": {
       "kana": "はい",
@@ -175,8 +185,8 @@
       "en": "thank you",
       "role": "expression",
       "first_episode": 1,
-      "uses": 8,
-      "last_episode": 6
+      "uses": 9,
+      "last_episode": 9
     },
     "いただきます": {
       "kana": "いただきます",
@@ -191,8 +201,8 @@
       "en": "oh, really?",
       "role": "expression",
       "first_episode": 1,
-      "uses": 9,
-      "last_episode": 7
+      "uses": 10,
+      "last_episode": 9
     },
     "すみません": {
       "kana": "すみません",
@@ -223,8 +233,8 @@
       "en": "no",
       "role": "expression",
       "first_episode": 2,
-      "uses": 8,
-      "last_episode": 5
+      "uses": 10,
+      "last_episode": 9
     },
     "くもり": {
       "kana": "くもり",
@@ -311,8 +321,8 @@
       "en": "shop / restaurant",
       "role": "noun",
       "first_episode": 4,
-      "uses": 13,
-      "last_episode": 8
+      "uses": 14,
+      "last_episode": 9
     },
     "メニュー": {
       "kana": "メニュー",
@@ -327,16 +337,16 @@
       "en": "cake",
       "role": "noun",
       "first_episode": 4,
-      "uses": 8,
-      "last_episode": 8
+      "uses": 12,
+      "last_episode": 9
     },
     "おはようございます": {
       "kana": "おはようございます",
       "en": "good morning",
       "role": "expression",
       "first_episode": 5,
-      "uses": 2,
-      "last_episode": 5
+      "uses": 3,
+      "last_episode": 9
     },
     "それ": {
       "kana": "それ",
@@ -359,8 +369,8 @@
       "en": "this (+ noun)",
       "role": "pronoun",
       "first_episode": 5,
-      "uses": 11,
-      "last_episode": 8
+      "uses": 17,
+      "last_episode": 9
     },
     "パン": {
       "kana": "パン",
@@ -375,8 +385,8 @@
       "en": "that (over there)",
       "role": "pronoun",
       "first_episode": 5,
-      "uses": 5,
-      "last_episode": 6
+      "uses": 6,
+      "last_episode": 9
     },
     "かさ": {
       "kana": "かさ",
@@ -391,16 +401,16 @@
       "en": "toilet",
       "role": "noun",
       "first_episode": 6,
-      "uses": 2,
-      "last_episode": 6
+      "uses": 3,
+      "last_episode": 9
     },
     "どこ": {
       "kana": "どこ",
       "en": "where",
       "role": "question-word",
       "first_episode": 6,
-      "uses": 4,
-      "last_episode": 7
+      "uses": 5,
+      "last_episode": 9
     },
     "何": {
       "kana": "なん",
@@ -415,8 +425,8 @@
       "en": "station",
       "role": "noun",
       "first_episode": 6,
-      "uses": 5,
-      "last_episode": 7
+      "uses": 6,
+      "last_episode": 9
     },
     "でぐち": {
       "kana": "でぐち",
@@ -455,8 +465,8 @@
       "en": "yeah",
       "role": "expression",
       "first_episode": 7,
-      "uses": 3,
-      "last_episode": 8
+      "uses": 4,
+      "last_episode": 9
     },
     "どようび": {
       "kana": "どようび",
@@ -495,8 +505,8 @@
       "en": "shirt",
       "role": "noun",
       "first_episode": 8,
-      "uses": 3,
-      "last_episode": 8
+      "uses": 4,
+      "last_episode": 9
     },
     "かわいい": {
       "kana": "かわいい",
@@ -511,48 +521,48 @@
       "en": "that's right",
       "role": "expression",
       "first_episode": 8,
-      "uses": 1,
-      "last_episode": 8
+      "uses": 2,
+      "last_episode": 9
     },
     "いくら": {
       "kana": "いくら",
       "en": "how much",
       "role": "question-word",
       "first_episode": 8,
-      "uses": 2,
-      "last_episode": 8
+      "uses": 3,
+      "last_episode": 9
     },
     "5000": {
       "kana": "ごせん",
       "en": "5000",
       "role": "number",
       "first_episode": 8,
-      "uses": 2,
-      "last_episode": 8
+      "uses": 3,
+      "last_episode": 9
     },
     "えん": {
       "kana": "えん",
       "en": "yen",
       "role": "prefix-suffix",
       "first_episode": 8,
-      "uses": 3,
-      "last_episode": 8
+      "uses": 6,
+      "last_episode": 9
     },
     "たかい": {
       "kana": "たかい",
       "en": "expensive",
       "role": "i-adjective",
       "first_episode": 8,
-      "uses": 2,
-      "last_episode": 8
+      "uses": 3,
+      "last_episode": 9
     },
     "2000": {
       "kana": "にせん",
       "en": "2000",
       "role": "number",
       "first_episode": 8,
-      "uses": 1,
-      "last_episode": 8
+      "uses": 3,
+      "last_episode": 9
     },
     "やすい": {
       "kana": "やすい",
@@ -561,6 +571,78 @@
       "first_episode": 8,
       "uses": 4,
       "last_episode": 8
+    },
+    "コンビニ": {
+      "kana": "コンビニ",
+      "en": "convenience store",
+      "role": "noun",
+      "first_episode": 9,
+      "uses": 2,
+      "last_episode": 9
+    },
+    "おにぎり": {
+      "kana": "おにぎり",
+      "en": "rice ball",
+      "role": "noun",
+      "first_episode": 9,
+      "uses": 1,
+      "last_episode": 9
+    },
+    "おいしい": {
+      "kana": "おいしい",
+      "en": "delicious",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 2,
+      "last_episode": 9
+    },
+    "たかくない": {
+      "kana": "たかくない",
+      "en": "not expensive",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 3,
+      "last_episode": 9
+    },
+    "あつい": {
+      "kana": "あつい",
+      "en": "hot",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 1,
+      "last_episode": 9
+    },
+    "あつくない": {
+      "kana": "あつくない",
+      "en": "not hot",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 2,
+      "last_episode": 9
+    },
+    "つめたい": {
+      "kana": "つめたい",
+      "en": "cold (to the touch)",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 1,
+      "last_episode": 9
+    },
+    "やすくない": {
+      "kana": "やすくない",
+      "en": "not cheap",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 2,
+      "last_episode": 9
+    },
+    "つめたくない": {
+      "kana": "つめたくない",
+      "en": "not cold",
+      "role": "i-adjective",
+      "first_episode": 9,
+      "uses": 1,
+      "last_episode": 9
     }
   },
   "patterns_covered": [
@@ -571,6 +653,7 @@
     "これ／それ／あれ・この〜",
     "なん／どこ／だれ",
     "〜も",
-    "い-adjective + です"
+    "い-adjective + です",
+    "〜くないです"
   ]
 }

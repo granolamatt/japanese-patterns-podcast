@@ -1,0 +1,1225 @@
+{
+  "title_en": "At the Convenience Store: It's Not Expensive!",
+  "title_jp": "コンビニ",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "おはようございます",
+          "kana": "おはようございます",
+          "en": "good morning",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "コンビニ",
+          "kana": "コンビニ",
+          "en": "convenience store",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "おにぎり",
+          "kana": "おにぎり",
+          "en": "rice ball",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Good morning, Ken. Are this convenience store's rice balls good?",
+      "literal": "good-morning, Ken. this convenience-store 'S rice-ball TOPIC delicious is QUESTION."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "たかくない",
+          "kana": "たかくない",
+          "en": "not expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah, they're good. And they're not expensive.",
+      "literal": "yeah, delicious is. expensive-NOT is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "いくら",
+          "kana": "いくら",
+          "en": "how much",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Really? How much is this cake?",
+      "literal": "oh-really. this cake TOPIC how-much is QUESTION."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "2000",
+          "kana": "にせん",
+          "en": "2000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "It's 2000 yen.",
+      "literal": "2000 yen is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "2000",
+          "kana": "にせん",
+          "en": "2000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "たかい",
+          "kana": "たかい",
+          "en": "expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "2000 yen? That's expensive.",
+      "literal": "2000 yen is QUESTION. expensive is."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "たかくない",
+          "kana": "たかくない",
+          "en": "not expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "5000",
+          "kana": "ごせん",
+          "en": "5000",
+          "role": "number"
+        },
+        {
+          "jp": "えん",
+          "kana": "えん",
+          "en": "yen",
+          "role": "prefix-suffix"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's not expensive. The cake at the station shop is 5000 yen.",
+      "literal": "no, expensive-NOT is. station 'S shop 'S cake TOPIC 5000 yen is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですね",
+          "kana": "そうですね",
+          "en": "that's right",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あつい",
+          "kana": "あつい",
+          "en": "hot",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "True. Well then, is this coffee hot?",
+      "literal": "that's-right. well-then, this coffee TOPIC hot is QUESTION."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "いいえ",
+          "kana": "いいえ",
+          "en": "no",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "あつくない",
+          "kana": "あつくない",
+          "en": "not hot",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "つめたい",
+          "kana": "つめたい",
+          "en": "cold (to the touch)",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "No, it's not hot. It's cold.",
+      "literal": "no, hot-NOT is. cold is."
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "トイレ",
+          "kana": "トイレ",
+          "en": "toilet",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "どこ",
+          "kana": "どこ",
+          "en": "where",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thanks. Where's the restroom?",
+      "literal": "thank-you. toilet TOPIC where is QUESTION."
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "It's that one over there.",
+      "literal": "that-over-there is."
+    }
+  ],
+  "explanation": {
+    "summary": "Last time you learned that an い-adjective can sit in the description slot right before です: コーヒーは あついです (The coffee is hot). To say 'is NOT hot', you change only the adjective. Drop the final い and add くない, then keep です at the end: あつい → あつくない → あつくないです. The sentence order stays the same: topic, は, description, です. Only the adjective's ending changes.",
+    "structure_notes": [
+      "Slot order is still [Topic] は [Description] です. With い-adjectives, the 'not' goes inside the description slot as the ending くない: コーヒー は あつくない です.",
+      "How to build it: take the adjective, remove the last い, add くない. たかい → たか + くない = たかくない. やすい → やすくない. つめたい → つめたくない.",
+      "Compare nouns. A noun takes じゃないです after it (えき じゃないです), but an い-adjective changes its own ending (たかくないです). Don't say たかいじゃないです.",
+      "Add か to make a question, same as always: たかくないですか = 'Isn't it expensive?' Answer with はい／いいえ plus the adjective.",
+      "If the topic is already clear, you can drop it along with は. That's why Ken just says たかくないです (It's not expensive) and Japanese listeners know what he means."
+    ],
+    "connects_to": "This is the adjective version of 〜じゃないです from episode 6: nouns add じゃないです, but い-adjectives turn their own い into くない. It builds right on episode 8's たかいです／やすいです. Same slot, now with a negative ending."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "たかくない",
+          "kana": "たかくない",
+          "en": "not expensive",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This cake is not expensive.",
+      "swap": "base sentence"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすくない",
+          "kana": "やすくない",
+          "en": "not cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This cake is not cheap.",
+      "swap": "adjective: たかい → やすい"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "シャツ",
+          "kana": "シャツ",
+          "en": "shirt",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "やすくない",
+          "kana": "やすくない",
+          "en": "not cheap",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This shirt is not cheap.",
+      "swap": "noun: ケーキ → シャツ"
+    },
+    {
+      "words": [
+        {
+          "jp": "コンビニ",
+          "kana": "コンビニ",
+          "en": "convenience store",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "あつくない",
+          "kana": "あつくない",
+          "en": "not hot",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "The convenience store's coffee is not hot.",
+      "swap": "topic: このシャツ → コンビニのコーヒー; adjective: やすい → あつい"
+    },
+    {
+      "words": [
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "つめたくない",
+          "kana": "つめたくない",
+          "en": "not cold",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Isn't the tea cold?",
+      "swap": "noun: コーヒー → おちゃ; adjective: あつい → つめたい; add か for a question"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "コンビニ",
+      "kana": "コンビニ",
+      "en": "convenience store"
+    },
+    {
+      "jp": "おにぎり",
+      "kana": "おにぎり",
+      "en": "rice ball"
+    },
+    {
+      "jp": "おいしい",
+      "kana": "おいしい",
+      "en": "delicious, tasty"
+    },
+    {
+      "jp": "あつい",
+      "kana": "あつい",
+      "en": "hot"
+    },
+    {
+      "jp": "つめたい",
+      "kana": "つめたい",
+      "en": "cold (to the touch)"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B-kunai desu",
+    "pattern_jp": "AはBくないです",
+    "pattern_english": "A is not B",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "the topic: a thing, place, food or drink, often with この/その/あれ (このおにぎり, このコーヒー, 東京)"
+      },
+      {
+        "slot": "B",
+        "fits": "an い-adjective with its final い removed (たか-, あつ-, おいし-, つめた-). Exception: いい becomes よくない"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern is {AはBくないです}. It means: A is not B, where B is a describing word, an adjective."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Last time you learned adjectives that end in {い}, like {たかい}, expensive, and {あつい}, hot. Today we make them negative."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Slot A is the topic, the thing you're talking about, followed by {は}. Slot B is the adjective, but with its final {い} taken off."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Then you add {くない}, which means 'not', and finish with the polite {です}. As always, {です} comes last."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "English says 'is not expensive.' Japanese says, piece by piece, 'expensive, not, politely.' The 'not' is glued right onto the adjective."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the adjective."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "たかい"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "{たかい} means expensive. Now drop the final {い} and add {くない}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "たかくない"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's 'not expensive.' Add {です} to make it polite."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "たかくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's not expensive. Ken says exactly this in today's dialogue. Now put a topic in front, with {は}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このおにぎりはたかくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This rice ball is not expensive."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Another one. Start with {あつい}, hot."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "あつい"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Drop the {い}, add {くない}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "あつくない"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Not hot. Now add the topic, this coffee, with {は}, and finish with {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このコーヒーはあつくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This coffee is not hot."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a swap. Same skeleton, new adjective: {おいしい}, tasty."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "このケーキはおいしくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This cake is not tasty. Same frame. Only the adjective changed. Listen to three endings in a row."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "たかくないです。あつくないです。おいしくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Not expensive. Not hot. Not tasty. Hear how they all end the same way, with {くないです}?"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the common mistake. You already know {じゃないです} for nouns, so it's tempting to say {たかいじゃないです}. That's wrong."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Memory trick: nouns take {じゃない}, and {い} words swap their {い} for {くない}. One exception: {いい}, good, becomes {よくないです}, not good."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This fits right onto what you already know. Ask a question with {か}, and today's pattern gives you the 'no' answer."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "このコーヒーはあついですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is this coffee hot?"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "いいえ、あつくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "No, it's not hot. And swap {は} for {も}:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このケーキもたかくないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This cake isn't expensive either. In a negative sentence, {も} means 'either.'"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "たかい",
+            "romaji": "takai",
+            "en": "expensive"
+          },
+          {
+            "jp": "たかくない",
+            "romaji": "takakunai",
+            "en": "not expensive"
+          },
+          {
+            "jp": "たかくないです。",
+            "romaji": "takakunai desu.",
+            "en": "It's not expensive. (polite)"
+          },
+          {
+            "jp": "このおにぎりはたかくないです。",
+            "romaji": "kono onigiri wa takakunai desu.",
+            "en": "This rice ball is not expensive."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "あつい",
+            "romaji": "atsui",
+            "en": "hot"
+          },
+          {
+            "jp": "あつくない",
+            "romaji": "atsukunai",
+            "en": "not hot"
+          },
+          {
+            "jp": "このコーヒーはあつくないです。",
+            "romaji": "kono koohii wa atsukunai desu.",
+            "en": "This coffee is not hot."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "おいしい",
+            "romaji": "oishii",
+            "en": "tasty"
+          },
+          {
+            "jp": "おいしくないです。",
+            "romaji": "oishikunai desu.",
+            "en": "It's not tasty."
+          },
+          {
+            "jp": "このケーキはおいしくないです。",
+            "romaji": "kono keeki wa oishikunai desu.",
+            "en": "This cake is not tasty."
+          }
+        ]
+      }
+    ],
+    "tip": "Don't put じゃないです after an い-adjective (たかいじゃないです is wrong). Nouns take じゃない; い-adjectives swap their final い for くない: たかい → たかくないです. Exception: いい (good) → よくないです.",
+    "real_world": {
+      "style": "TV weather report",
+      "sentence_jp": "あしたの東京はあつくないです。",
+      "sentence_en": "It won't be hot in Tokyo tomorrow.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "On a TV weather report, the forecaster might say this about tomorrow."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたの東京はあつくないです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it down."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あしたの"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{あした} is a new word: tomorrow. With {の} after it, it means tomorrow's."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "東京は"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Tokyo, plus {は}. So 'tomorrow's Tokyo' is the topic. That's slot A."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あつくないです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Not hot. That's slot B: {あつい} with its {い} swapped for {くない}. For weather, {あつい} means a hot day, just like hot coffee. All together: Tokyo won't be hot tomorrow."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "あしたの東京はあつくないです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "In real forecasts, listen at the very end of each line. If you hear {くない}, the weather word has been flipped to 'not.'"
+        }
+      ]
+    }
+  }
+}
