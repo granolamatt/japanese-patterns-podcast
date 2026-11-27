@@ -11,8 +11,9 @@
 | 7 | AもBです | A mo B desu | **A is also B / A is B, too** | 私(わたし)もかいしゃいんです。 — I'm an office worker too. |
 | 8 | AはBです（B＝い形容詞） | A wa B desu (B = an i-adjective) | **A is B (B = a describing word like cute, expensive, cheap)** | このシャツはやすいです。 — This shirt is cheap. |
 | 9 | AはBくないです | A wa B-kunai desu | **A is not B** | このケーキはたかくないです。 — This cake is not expensive. |
+| 10 | AはBです／AはBじゃないです | A wa B desu / A wa B ja nai desu | **A is B / A isn't B (B = a na-adjective)** | おとうさんはげんきです。 — My father is doing well. |
 
-# Roadmap: 9 of 800 patterns
+# Roadmap: 10 of 800 patterns
 
 
 ## N5
@@ -26,7 +27,7 @@
 - [x] 7. 〜も · [Topic] mo [Noun] desu = [Topic] is also [Noun]
 - [x] 8. い-adjective + です · [Topic] wa [i-adj] desu = [Topic] is [adj]
 - [x] 9. 〜くないです · [Topic] wa [i-adj stem]-kunai desu = [Topic] is not [adj]
-- [ ] 10. な-adjective + です · [Topic] wa [na-adj] desu / ja nai desu = [Topic] is / isn't [adj]
+- [x] 10. な-adjective + です · [Topic] wa [na-adj] desu / ja nai desu = [Topic] is / isn't [adj]
 - [ ] 11. adjective + noun · [i-adj] [Noun] / [na-adj] na [Noun] = an [adj] [Noun]
 - [ ] 12. とても／あまり〜ない · totemo [adj] desu / amari [adj-negative] desu = It's very [adj] / It's not very [adj]
 - [ ] 13. 〜が あります／います · [Thing] ga arimasu / [Person/animal] ga imasu = There is [Thing] / I have [Thing]

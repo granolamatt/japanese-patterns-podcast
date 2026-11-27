@@ -1,0 +1,1176 @@
+{
+  "title_en": "Ken's Family",
+  "title_jp": "けんの かぞく",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "だれ",
+          "kana": "だれ",
+          "en": "who",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken, who is that over there?",
+      "literal": "Ken, that-over-there TOPIC who is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that (over there)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "おかあさん",
+          "kana": "おかあさん",
+          "en": "mother",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That's my mother.",
+      "literal": "that-over-there TOPIC I 'S mother is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "おかあさん",
+          "kana": "おかあさん",
+          "en": "mother",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "きれい",
+          "kana": "きれい",
+          "en": "pretty",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? Your mother is pretty.",
+      "literal": "oh-really. mother TOPIC pretty is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "おかあさん",
+          "kana": "おかあさん",
+          "en": "mother",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "げんき",
+          "kana": "げんき",
+          "en": "healthy, energetic",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. My mother is full of energy.",
+      "literal": "thank-you. mother TOPIC energetic is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "おとうさん",
+          "kana": "おとうさん",
+          "en": "father",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also (replaces は)",
+          "role": "particle"
+        },
+        {
+          "jp": "げんき",
+          "kana": "げんき",
+          "en": "healthy, energetic",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Is your father doing well too?",
+      "literal": "father ALSO energetic is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": ",",
+          "role": "punct"
+        },
+        {
+          "jp": "げんき",
+          "kana": "げんき",
+          "en": "healthy, energetic",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "おとうさん",
+          "kana": "おとうさん",
+          "en": "father",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずか",
+          "kana": "しずか",
+          "en": "quiet",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah, he's well. My father is quiet.",
+      "literal": "yeah, energetic is. father TOPIC quiet is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "かぞく",
+          "kana": "かぞく",
+          "en": "family",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずか",
+          "kana": "しずか",
+          "en": "quiet",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "My family isn't quiet.",
+      "literal": "I 'S family TOPIC quiet is-not"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おかあさん",
+          "kana": "おかあさん",
+          "en": "mother",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "おにぎり",
+          "kana": "おにぎり",
+          "en": "rice ball",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? This is my mother's rice ball. Here you go.",
+      "literal": "oh-really. this TOPIC mother 'S rice-ball is. here-you-go"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before eating)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "つめたくない",
+          "kana": "つめたくない",
+          "en": "not cold",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "！",
+          "kana": "！",
+          "en": "!",
+          "role": "punct"
+        }
+      ],
+      "en": "Itadakimasu. It's not cold. It's delicious!",
+      "literal": "itadakimasu. not-cold is. delicious is!"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "そうですね",
+          "kana": "そうですね",
+          "en": "that's right",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        },
+        {
+          "jp": "コンビニ",
+          "kana": "コンビニ",
+          "en": "convenience store",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / from (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "おにぎり",
+          "kana": "おにぎり",
+          "en": "rice ball",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "That's right. It's not a convenience-store rice ball.",
+      "literal": "that's-right. convenience-store 'S rice-ball is-not"
+    }
+  ],
+  "explanation": {
+    "summary": "な-adjectives are a second kind of describing word. As a predicate (the part at the end of the sentence) they fit the same slot as a noun: [Topic] は [な-adj] です. To make it negative, swap です for じゃないです, the same as with nouns: おとうさんは しずかじゃないです. This is the big difference from い-adjectives. With those you change the word itself (たかい → たかくない). With な-adjectives the word never changes. Only the ending after it changes.",
+    "structure_notes": [
+      "Slot order: [Topic] + は + [な-adj] + です. The adjective always comes right before です, at the end of the sentence.",
+      "Negative: [Topic] は [な-adj] じゃないです. Nothing is added to the adjective itself. You only swap です for じゃないです.",
+      "Compare い-adjectives: おいしい → おいしくないです (the word changes). な-adjectives: しずか → しずかじゃないです (the word stays the same).",
+      "Questions work as before: add か at the end. おとうさんも げんきですか。 (Is your father well too?)",
+      "Watch out: きれい ends in い but is a な-adjective. The negative is きれいじゃないです, never きれくないです."
+    ],
+    "connects_to": "な-adjectives work exactly like nouns in 〜は〜です and 〜じゃないです (かぞくは しずかじゃないです has the same shape as 私は 学生じゃないです). They are unlike い-adjectives, which change form to 〜くないです."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "おとうさん",
+          "kana": "おとうさん",
+          "en": "father",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "げんき",
+          "kana": "げんき",
+          "en": "healthy, energetic",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "My father is doing well.",
+      "swap": "topic: おかあさん → おとうさん"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずか",
+          "kana": "しずか",
+          "en": "quiet",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This shop is quiet.",
+      "swap": "topic: おとうさん → このみせ; adjective: げんき → しずか"
+    },
+    {
+      "words": [
+        {
+          "jp": "この",
+          "kana": "この",
+          "en": "this (+ noun)",
+          "role": "pronoun"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずか",
+          "kana": "しずか",
+          "en": "quiet",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "This shop isn't quiet.",
+      "swap": "ending: です → じゃないです"
+    },
+    {
+      "words": [
+        {
+          "jp": "えき",
+          "kana": "えき",
+          "en": "station",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "トイレ",
+          "kana": "トイレ",
+          "en": "toilet",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "きれい",
+          "kana": "きれい",
+          "en": "clean",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "?",
+          "role": "punct"
+        }
+      ],
+      "en": "Is the station toilet clean?",
+      "swap": "topic: このみせ → えきのトイレ; adjective: しずか → きれい; made into a question with か"
+    },
+    {
+      "words": [
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "かぞく",
+          "kana": "かぞく",
+          "en": "family",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also (replaces は)",
+          "role": "particle"
+        },
+        {
+          "jp": "げんき",
+          "kana": "げんき",
+          "en": "healthy, energetic",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": ".",
+          "role": "punct"
+        }
+      ],
+      "en": "Yuki's family is doing well too.",
+      "swap": "topic: えきのトイレ → ゆきのかぞく; particle: は → も"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "かぞく",
+      "kana": "かぞく",
+      "en": "family"
+    },
+    {
+      "jp": "おかあさん",
+      "kana": "おかあさん",
+      "en": "mother"
+    },
+    {
+      "jp": "おとうさん",
+      "kana": "おとうさん",
+      "en": "father"
+    },
+    {
+      "jp": "げんき",
+      "kana": "げんき",
+      "en": "healthy, energetic, doing well (な-adj)"
+    },
+    {
+      "jp": "しずか",
+      "kana": "しずか",
+      "en": "quiet (な-adj)"
+    },
+    {
+      "jp": "きれい",
+      "kana": "きれい",
+      "en": "pretty; clean (な-adj)"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A wa B desu / A wa B ja nai desu",
+    "pattern_jp": "AはBです／AはBじゃないです",
+    "pattern_english": "A is B / A isn't B (B = a na-adjective)",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "the topic: a person, thing or place (おかあさん, 私のかぞく, このへや), often built with の or この"
+      },
+      {
+        "slot": "B",
+        "fits": "a な-adjective describing A: きれい (pretty / clean), げんき (energetic, well), しずか (quiet), ゆうめい (famous), ふあんてい (unstable). Used plainly, with no な before です"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern lets you say what something is like, using a new family of describing words. Here it is."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "AはBです"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It means: A is B. Here, B is a describing word called a {な}-adjective. The negative is this:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "AはBじゃないです"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "A is not B. So: A is pretty, or A isn't quiet."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's go through the slots. A is the topic, the person or thing you're talking about. Next comes {は}, the topic marker you already know."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Slot B is the {な}-adjective. Three of them come up in today's dialogue: {きれい}, which means pretty or clean, {げんき}, which means energetic or well, and {しずか}, which means quiet."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Then {です} comes last, just like with nouns. The word order is topic, then description, then {です}. In English, the word is comes in the middle. In Japanese, it comes at the very end."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the topic: mother."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "おかあさん"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Add the topic marker."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "おかあさんは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for mother. Now add the description, energetic."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "おかあさんはげんき"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Finish with {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "おかあさんはげんきです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My mother is full of energy."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a negative one. Start with my family. Remember that {の} links nouns."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "私のかぞくは"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "As for my family. Add quiet."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "私のかぞくはしずか"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now end with {じゃないです} instead of {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "私のかぞくはしずかじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "My family isn't quiet."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's a swap. Keep the skeleton and change the words. The topic becomes this room, and we bring back {きれい}, this time meaning clean."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このへやはきれいです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This room is clean. And the negative:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "このへやはきれいじゃないです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This room isn't clean. The frame stays the same and only the pieces change."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a common trap. The word {きれい} ends in an {い} sound, so learners treat it like an {い}-adjective and say this, which is wrong:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "きれいくないです"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's a mistake. {きれい} is a {な}-adjective, so the negative is {きれいじゃないです}. Here's a memory trick: {な}-adjectives act like nouns, and {い}-adjectives change their own ending."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "That's also how today's pattern snaps onto what you know. Since {な}-adjectives act like nouns, {じゃないです} is the same negative you learned for nouns. Add {か} to ask a question. Swap {は} for {も} to say also. In the dialogue, Yuki puts all of that together:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "おとうさんもげんきですか。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Is your father doing well too? Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "おかあさん",
+            "romaji": "okaasan",
+            "en": "mother"
+          },
+          {
+            "jp": "おかあさんは",
+            "romaji": "okaasan wa",
+            "en": "as for mother"
+          },
+          {
+            "jp": "おかあさんはげんき",
+            "romaji": "okaasan wa genki",
+            "en": "mother… energetic"
+          },
+          {
+            "jp": "おかあさんはげんきです。",
+            "romaji": "Okaasan wa genki desu.",
+            "en": "My mother is full of energy."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "私のかぞくは",
+            "romaji": "watashi no kazoku wa",
+            "en": "as for my family"
+          },
+          {
+            "jp": "私のかぞくはしずか",
+            "romaji": "watashi no kazoku wa shizuka",
+            "en": "my family… quiet"
+          },
+          {
+            "jp": "私のかぞくはしずかじゃないです。",
+            "romaji": "Watashi no kazoku wa shizuka ja nai desu.",
+            "en": "My family isn't quiet."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "このへやは",
+            "romaji": "kono heya wa",
+            "en": "as for this room"
+          },
+          {
+            "jp": "このへやはきれいです。",
+            "romaji": "Kono heya wa kirei desu.",
+            "en": "This room is clean."
+          },
+          {
+            "jp": "このへやはきれいじゃないです。",
+            "romaji": "Kono heya wa kirei ja nai desu.",
+            "en": "This room isn't clean."
+          }
+        ]
+      }
+    ],
+    "tip": "きれい ends in an い sound, but it's a な-adjective, so its negative is きれいじゃないです, never きれいくないです. A memory trick: な-adjectives act like nouns (add です or じゃないです), and い-adjectives change their own ending (〜くないです).",
+    "real_world": {
+      "style": "TV weather forecast",
+      "sentence_jp": "明日の天気は不安定です。",
+      "sentence_en": "Tomorrow's weather will be unstable.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Here's the real Japanese corner. On the evening TV weather forecast, you might hear a presenter say this:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "明日の天気は不安定です。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's break it down. First chunk:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "明日の天気は"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "{明日} is tomorrow. {天気} is a new word that means weather. They're linked with {の}, so this means tomorrow's weather, and {は} marks it as the topic. That's slot A."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "不安定"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Second new word: {不安定}, which means unstable or changeable. It's a {な}-adjective, so it fills slot B. You'll hear this a lot in forecasts."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "です"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "And {です} closes the sentence, the same as always. Once more at real speed."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "明日の天気は不安定です。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Tomorrow's weather will be unstable. In real broadcasts, listen for {は}, then a describing word, then {です} at the end. That's today's pattern at work."
+        }
+      ]
+    }
+  }
+}
