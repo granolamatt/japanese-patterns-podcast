@@ -1,0 +1,1200 @@
+{
+  "title_en": "A Fun Hobby",
+  "title_jp": "たのしい しゅみ",
+  "lines": [
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "けん",
+          "kana": "けん",
+          "en": "Ken",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "しゅみ",
+          "kana": "しゅみ",
+          "en": "hobby",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "何",
+          "kana": "なん",
+          "en": "what",
+          "role": "question-word"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Ken, what's your hobby?",
+      "literal": "Ken 'S hobby TOPIC what is QUESTION"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "にちようび",
+          "kana": "にちようび",
+          "en": "Sunday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "えいが",
+          "kana": "えいが",
+          "en": "movie",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "たのしい",
+          "kana": "たのしい",
+          "en": "fun",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "やすみ",
+          "kana": "やすみ",
+          "en": "day off",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Movies. A Sunday movie makes a fun day off.",
+      "literal": "movie is. Sunday 'S movie TOPIC fun day-off is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "そうですか",
+          "kana": "そうですか",
+          "en": "oh, really?",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / my (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "しゅみ",
+          "kana": "しゅみ",
+          "en": "hobby",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "りょうり",
+          "kana": "りょうり",
+          "en": "cooking",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Oh, really? My hobby is cooking.",
+      "literal": "oh-really. I 'S hobby TOPIC cooking is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ゆき",
+          "kana": "ゆき",
+          "en": "Yuki",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "りょうり",
+          "kana": "りょうり",
+          "en": "cooking",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is (polite)",
+          "role": "copula"
+        },
+        {
+          "jp": "か",
+          "kana": "か",
+          "en": "question marker",
+          "role": "particle"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Is your cooking good, Yuki?",
+      "literal": "Yuki 'S cooking TOPIC delicious is QUESTION"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / my (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "つめたい",
+          "kana": "つめたい",
+          "en": "cold, chilled",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah. This is my cake. It's a chilled cake. Here you go.",
+      "literal": "yeah. this TOPIC I 'S cake is. cold cake is. here-you-go"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "いただきます",
+          "kana": "いただきます",
+          "en": "(said before eating)",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "ケーキ",
+          "kana": "ケーキ",
+          "en": "cake",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "！",
+          "kana": "！",
+          "en": "exclamation mark",
+          "role": "punct"
+        }
+      ],
+      "en": "Thank you. Itadakimasu. This cake is delicious!",
+      "literal": "thank-you. itadakimasu. delicious cake is!"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "あつい",
+          "kana": "あつい",
+          "en": "hot",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "どうぞ",
+          "kana": "どうぞ",
+          "en": "here you go",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Have some hot coffee too.",
+      "literal": "hot coffee ALSO here-you-go"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ありがとうございます",
+          "kana": "ありがとうございます",
+          "en": "thank you",
+          "role": "expression"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "も",
+          "kana": "も",
+          "en": "also / too",
+          "role": "particle"
+        },
+        {
+          "jp": "私",
+          "kana": "わたし",
+          "en": "I",
+          "role": "pronoun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / my (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "しゅみ",
+          "kana": "しゅみ",
+          "en": "hobby",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Thanks. Good coffee is a hobby of mine too.",
+      "literal": "thank-you. delicious coffee ALSO I 'S hobby is"
+    },
+    {
+      "speaker": "A",
+      "words": [
+        {
+          "jp": "じゃあ",
+          "kana": "じゃあ",
+          "en": "well then",
+          "role": "expression"
+        },
+        {
+          "jp": "、",
+          "kana": "、",
+          "en": "comma",
+          "role": "punct"
+        },
+        {
+          "jp": "どようび",
+          "kana": "どようび",
+          "en": "Saturday",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / of (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずかな",
+          "kana": "しずかな",
+          "en": "quiet (+ noun)",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop, café",
+          "role": "noun"
+        },
+        {
+          "jp": "の",
+          "kana": "の",
+          "en": "'s / at (links nouns)",
+          "role": "particle"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Well then, our plan for Saturday is coffee at a quiet café.",
+      "literal": "well-then, Saturday 'S plan TOPIC quiet shop 'S coffee is"
+    },
+    {
+      "speaker": "B",
+      "words": [
+        {
+          "jp": "ええ",
+          "kana": "ええ",
+          "en": "yeah",
+          "role": "expression"
+        },
+        {
+          "jp": "！",
+          "kana": "！",
+          "en": "exclamation mark",
+          "role": "punct"
+        },
+        {
+          "jp": "たのしい",
+          "kana": "たのしい",
+          "en": "fun",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "よてい",
+          "kana": "よてい",
+          "en": "plan",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "Yeah! That's a fun plan.",
+      "literal": "yeah! fun plan is"
+    }
+  ],
+  "explanation": {
+    "summary": "Until now, adjectives always came at the end of the sentence: ケーキは おいしいです (The cake is delicious). This time the adjective moves to the front of a noun and describes it directly: おいしい ケーキ (delicious cake). The adjective and the noun now work as one block, and that block can go anywhere a plain noun can go: before です, before は or も, or after の. い-adjectives go straight in front of the noun with no change. な-adjectives need a な between the adjective and the noun: しずかな みせ (a quiet shop).",
+    "structure_notes": [
+      "Japanese puts the describing word first, like English: [adjective] [noun]. おいしい コーヒー = delicious coffee, たのしい よてい = fun plan.",
+      "い-adjectives attach directly: つめたい ケーキ, あつい コーヒー. Don't add anything in between.",
+      "な-adjectives need な before the noun: しずか → しずかな みせ, きれい → きれいな かさ. Leaving out the な is a common beginner mistake.",
+      "The [adjective + noun] block is still just a noun phrase. It takes the same slots a noun does: 'たのしい よてい です', 'あつい コーヒー も どうぞ', 'しずかな みせ の コーヒー'.",
+      "Compare the two positions. 'ケーキ は おいしい です' is a statement about the cake (the adjective comes at the end). 'おいしい ケーキ です' just names the thing (the adjective sits inside the noun phrase)."
+    ],
+    "connects_to": "In episodes 8 to 10 you used い- and な-adjectives at the end of a sentence with です. In this episode the same adjectives move in front of a noun, and な-adjectives get a な on the end when they do. The noun phrase they form fits into patterns you already know, like 〜は〜です, 〜も and 〜の〜."
+  },
+  "examples": [
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "コーヒー",
+          "kana": "コーヒー",
+          "en": "coffee",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "This is good coffee.",
+      "swap": "base sentence"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "おいしい",
+          "kana": "おいしい",
+          "en": "delicious",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "This is good tea.",
+      "swap": "noun: コーヒー → おちゃ"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "つめたい",
+          "kana": "つめたい",
+          "en": "cold",
+          "role": "i-adjective"
+        },
+        {
+          "jp": "おちゃ",
+          "kana": "おちゃ",
+          "en": "tea",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "This is cold tea.",
+      "swap": "い-adjective: おいしい → つめたい"
+    },
+    {
+      "words": [
+        {
+          "jp": "これ",
+          "kana": "これ",
+          "en": "this",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "きれいな",
+          "kana": "きれいな",
+          "en": "pretty (+ noun)",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "かさ",
+          "kana": "かさ",
+          "en": "umbrella",
+          "role": "noun"
+        },
+        {
+          "jp": "です",
+          "kana": "です",
+          "en": "is",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "This is a pretty umbrella.",
+      "swap": "い-adj + noun → な-adj + な + noun: つめたい おちゃ → きれいな かさ"
+    },
+    {
+      "words": [
+        {
+          "jp": "あれ",
+          "kana": "あれ",
+          "en": "that over there",
+          "role": "pronoun"
+        },
+        {
+          "jp": "は",
+          "kana": "は",
+          "en": "topic marker",
+          "role": "particle"
+        },
+        {
+          "jp": "しずかな",
+          "kana": "しずかな",
+          "en": "quiet (+ noun)",
+          "role": "na-adjective"
+        },
+        {
+          "jp": "みせ",
+          "kana": "みせ",
+          "en": "shop",
+          "role": "noun"
+        },
+        {
+          "jp": "じゃないです",
+          "kana": "じゃないです",
+          "en": "is not",
+          "role": "copula"
+        },
+        {
+          "jp": "。",
+          "kana": "。",
+          "en": "period",
+          "role": "punct"
+        }
+      ],
+      "en": "That place over there isn't a quiet shop.",
+      "swap": "topic and ending: これ → あれ, です → じゃないです (with しずかな みせ)"
+    }
+  ],
+  "new_vocab": [
+    {
+      "jp": "しゅみ",
+      "kana": "しゅみ",
+      "en": "hobby"
+    },
+    {
+      "jp": "りょうり",
+      "kana": "りょうり",
+      "en": "cooking"
+    },
+    {
+      "jp": "たのしい",
+      "kana": "たのしい",
+      "en": "fun, enjoyable"
+    }
+  ],
+  "narration": {
+    "pattern_romaji": "A N / B na N",
+    "pattern_jp": "A N ／ B な N",
+    "pattern_english": "an A N / a B N (the adjective comes before the noun, just like in English)",
+    "slots": [
+      {
+        "slot": "A",
+        "fits": "an い-adjective in its dictionary form, attached directly to the noun: おいしい, あつい, つめたい, たのしい, おおきい"
+      },
+      {
+        "slot": "B",
+        "fits": "a な-adjective followed by な: しずか, きれい, ゆうめい, げんき"
+      },
+      {
+        "slot": "N",
+        "fits": "any noun: コーヒー, ケーキ, みせ, やすみ, まち, よてい"
+      }
+    ],
+    "segments": [
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Welcome back! Today's pattern puts adjectives in front of nouns. For a {い} adjective, you just put it straight in front of the noun. For a {な} adjective, you add {な} in between. Either way it means: a hot coffee, a quiet shop."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "おいしい コーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Delicious coffee. The adjective {おいしい} goes first, then the noun {コーヒー}. Nothing in between."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "しずかな まち"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "A quiet town. Here the adjective is {しずか}, quiet, and it needs the little linker {な} before the noun {まち}, town."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "So there are two slots. First, the describing word. Second, the noun. Good news: the order is the same as English. Describer first, thing second."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Let's build one. Start with the noun."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "コーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Coffee. Now put the {い} adjective {あつい}, hot, in front."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あつい コーヒー"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Hot coffee. Add {です} at the end."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "あつい コーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's hot coffee. And put a topic in front with {は}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "これは あつい コーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This is hot coffee."
+      },
+      {
+        "kind": "en",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "Now a {な} adjective. Start with the noun {みせ}, shop."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "みせ"
+      },
+      {
+        "kind": "en",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "Shop. Now {しずか}, quiet, plus the linker {な}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "しずかな みせ"
+      },
+      {
+        "kind": "en",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "A quiet shop. Now the topic and {です}."
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "あれは しずかな みせです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "That over there is a quiet shop."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Now a swap. Same skeleton, new words. Ken says this about his Sunday movies:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "たのしい やすみです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's a fun day off. Swap in {つめたい}, cold, and {ケーキ}, cake:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "つめたい ケーキです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "It's a chilled cake. Same shape, different pieces."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Here's the common mistake. Don't add {な} to a {い} adjective. Hot coffee is {あつい コーヒー}, never with {な}. Memory trick: {い} words can stand on their own; {な} words need a little helper to hold the noun's hand."
+      },
+      {
+        "kind": "en",
+        "speaker": "B",
+        "speed": "teaching",
+        "text": "And notice: in front of {です}, quiet was just {しずかです}. The {な} only shows up when a noun follows."
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "This snaps right onto what you know. An adjective plus noun is just a bigger noun, so it fits anywhere a noun goes: after {は}, before {です}, even with {の}. Like this:"
+      },
+      {
+        "kind": "jp",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "どようびの よていは しずかな みせの コーヒーです。"
+      },
+      {
+        "kind": "en",
+        "speaker": "A",
+        "speed": "teaching",
+        "text": "Our plan for Saturday is coffee at a quiet café. Now let's hear Yuki and Ken use it."
+      }
+    ],
+    "builder": [
+      {
+        "steps": [
+          {
+            "jp": "コーヒー",
+            "romaji": "koohii",
+            "en": "coffee"
+          },
+          {
+            "jp": "あつい コーヒー",
+            "romaji": "atsui koohii",
+            "en": "hot coffee"
+          },
+          {
+            "jp": "あつい コーヒーです。",
+            "romaji": "atsui koohii desu.",
+            "en": "It's hot coffee."
+          },
+          {
+            "jp": "これは あつい コーヒーです。",
+            "romaji": "kore wa atsui koohii desu.",
+            "en": "This is hot coffee."
+          }
+        ]
+      },
+      {
+        "steps": [
+          {
+            "jp": "みせ",
+            "romaji": "mise",
+            "en": "shop"
+          },
+          {
+            "jp": "しずかな みせ",
+            "romaji": "shizuka na mise",
+            "en": "a quiet shop"
+          },
+          {
+            "jp": "あれは しずかな みせです。",
+            "romaji": "are wa shizuka na mise desu.",
+            "en": "That over there is a quiet shop."
+          }
+        ]
+      }
+    ],
+    "tip": "Never put な after an い-adjective: it's あつい コーヒー, not あついな コーヒー. Memory trick: い-adjectives stand on their own; な-adjectives need な to hold the noun's hand. And な only appears in front of a noun. Before です, it's just しずかです.",
+    "real_world": {
+      "style": "morning weather report",
+      "sentence_jp": "きょうの とうきょうは さむい あさです。",
+      "sentence_en": "Tokyo is having a cold morning today.",
+      "segments": [
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Real Japanese time! On a morning weather report, you might hear this:"
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "きょうの とうきょうは さむい あさです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Let's take it apart."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "きょうの とうきょうは"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Today's Tokyo, as the topic. That's {の} linking two nouns, then {は}."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "さむい"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "New word: cold, as in cold weather. It's an {い} adjective, so it fills the first slot directly, no {な}."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "あさです"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Second new word: {あさ}, morning. That's the noun slot, then {です}. So: a cold morning."
+        },
+        {
+          "kind": "jp",
+          "speaker": "A",
+          "speed": "natural",
+          "text": "きょうの とうきょうは さむい あさです。"
+        },
+        {
+          "kind": "en",
+          "speaker": "A",
+          "speed": "teaching",
+          "text": "Tokyo is having a cold morning today. In real broadcasts, listen for an adjective right before a noun, like a cold morning or a quiet day. It's one of the most common shapes you'll hear."
+        }
+      ]
+    }
+  }
+}
